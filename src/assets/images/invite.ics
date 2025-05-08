@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VTIMEZONE
+TZID:America/Managua
+X-LIC-LOCATION:America/Managua
+BEGIN:STANDARD
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0600
+TZNAME:CST
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/Managua:20250511T080000
+DTEND;TZID=America/Managua:20250511T090000
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20250721T055959Z;BYDAY=SU
+DTSTAMP:20250505T024728Z
+ORGANIZER;CN=Uverh Godinez:mailto:ibecs072021@gmail.com
+UID:7v1ekm30ddlaj50u2ts19285s2@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=adexbolaji100@gmail.com;X-NUM-GUESTS=0:mailto:adexbolaji100@gmail.c
+ om
+X-GOOGLE-CONFERENCE:https://meet.google.com/zek-inyf-wai
+X-MICROSOFT-CDO-OWNERAPPTID:-2050801696
+CREATED:20250505T024043Z
+DESCRIPTION:Hi Bolaji\, \n\nThis is your GMI session. Please confirm your a
+ ttendance.\n\nIf you foresee any inconvenience attending\, feel free to let
+  me know so we can see options to reschedule. Thanks!\n\nUverh\,\n\n-::~:~:
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~
+ :~::-\nJoin with Google Meet: https://meet.google.com/zek-inyf-wai\n\nLearn
+  more about Meet at: https://support.google.com/a/users/answer/9282720\n\nP
+ lease do not edit this section.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20250505T024726Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:GMI Session
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
