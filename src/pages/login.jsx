@@ -1,15 +1,16 @@
 import CustomInput from "../components/inputComponent";
 import google_icon from "../assets/icons/google.svg";
-import { Link, replace, useNavigate } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
 import { toast } from "react-toastify";
-import { useState } from "react";
+import { useState, useRef, useEffect } from "react";
 import {
     doSignInWithEmailAndPassword,
     doSignInWithGoogle,
-    doSendEmailVerification,
 } from "../firebase/auth";
 import Spinner from "../components/spinnerComponent";
 import { auth } from "../firebase/firebase";
+import { useAuth } from "../contexts/authContext/userContext";
+import { Navigate } from "react-router-dom";
 
 const Login = () => {
     const navigate = useNavigate();
@@ -105,6 +106,10 @@ const Login = () => {
             // setErrMsg(err);
             if (err.code === "auth/invalid-credential") {
                 toast.error("Invalid credentials, please try again");
+            } else if (err.code === "auth/network-request-failed") {
+                toast.error("check internet network ");
+            } else {
+                toast.error(err.code);
             }
         } finally {
             setIsLoading(false);
@@ -126,6 +131,24 @@ const Login = () => {
             setGLoading(false);
         }
     };
+
+    const { currentUser } = useAuth();
+
+    const toastShownRef = useRef(false);
+
+    const [canRedirect, setCanRedirect] = useState(false);
+
+    useEffect(() => {
+        if (currentUser && !toastShownRef.current) {
+            toast.success("You are already logged in");
+            toastShownRef.current = true;
+            setCanRedirect(true);
+        }
+    }, [currentUser]);
+
+    if (currentUser && canRedirect) {
+        return <Navigate to="/dashboard" replace />;
+    }
 
     return (
         <div className=" mx-auto  min-w-sm">

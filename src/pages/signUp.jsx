@@ -1,16 +1,20 @@
 import google_icon from "../assets/icons/google.svg";
 import CustomInput from "../components/inputComponent";
 import { Link, useNavigate } from "react-router-dom";
-import { useState } from "react";
+import { useState, useEffect, useRef } from "react";
 import {
     doCreateUserWithEmailAndPassword,
     doSignInWithGoogle,
 } from "../firebase/auth";
 import Spinner from "../components/spinnerComponent";
 import { toast } from "react-toastify";
+import { useAuth } from "../contexts/authContext/userContext";
+import { Navigate } from "react-router-dom";
 
 const SignUp = () => {
     const navigate = useNavigate();
+
+    // const { currentUser } = useAuth();
 
     const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
 
@@ -26,6 +30,26 @@ const SignUp = () => {
 
     const [loading, setLoading] = useState(false);
     const [googleLoading, setGLoading] = useState(false);
+
+    const { currentUser } = useAuth();
+
+    const toastShownRef = useRef(false);
+
+    useEffect(() => {
+        if (currentUser && !toastShownRef.current) {
+            toast.success("You are already logged in");
+            toastShownRef.current = true;
+        }
+    }, [currentUser]);
+
+    if (currentUser) {
+        return <Navigate to="/dashboard" replace />;
+    }
+
+    // Add navigate to dependencies if using this approach
+
+    // Remove the conditional rendering of Navigate component
+    // The navigation is now handled in the useEffect
 
     const handleChange = (e) => {
         setErrors((prev) => ({ ...prev, [e.target.name]: null }));
@@ -138,6 +162,8 @@ const SignUp = () => {
             setGLoading(false);
         }
     };
+
+    // check if user is already logged in
 
     return (
         <div className=" mx-auto  min-w-sm">
