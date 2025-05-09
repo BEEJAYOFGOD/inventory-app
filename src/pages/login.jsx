@@ -2,7 +2,7 @@ import CustomInput from "../components/inputComponent";
 import google_icon from "../assets/icons/google.svg";
 import { Link, useNavigate } from "react-router-dom";
 import { toast } from "react-toastify";
-import { useState, useRef, useEffect } from "react";
+import { useState } from "react";
 import {
     doSignInWithEmailAndPassword,
     doSignInWithGoogle,
@@ -134,19 +134,7 @@ const Login = () => {
 
     const { currentUser } = useAuth();
 
-    const toastShownRef = useRef(false);
-
-    const [canRedirect, setCanRedirect] = useState(false);
-
-    useEffect(() => {
-        if (currentUser && !toastShownRef.current) {
-            toast.success("You are already logged in");
-            toastShownRef.current = true;
-            setCanRedirect(true);
-        }
-    }, [currentUser]);
-
-    if (currentUser && canRedirect) {
+    if (currentUser) {
         return <Navigate to="/dashboard" replace />;
     }
 

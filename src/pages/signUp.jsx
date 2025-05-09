@@ -33,15 +33,6 @@ const SignUp = () => {
 
     const { currentUser } = useAuth();
 
-    const toastShownRef = useRef(false);
-
-    useEffect(() => {
-        if (currentUser && !toastShownRef.current) {
-            toast.success("You are already logged in");
-            toastShownRef.current = true;
-        }
-    }, [currentUser]);
-
     if (currentUser) {
         return <Navigate to="/dashboard" replace />;
     }
