@@ -1,8 +1,11 @@
 import { NavLink } from "react-router-dom";
 import { useAuth } from "../contexts/authContext/userContext";
+import companyLogo from "../assets/images/company_logo.svg";
+import { useNavigate } from "react-router-dom";
 
 const SideBar = () => {
     const { logOut } = useAuth();
+    const navigate = useNavigate();
 
     const navItems = [
         {
@@ -246,40 +249,64 @@ const SideBar = () => {
             aria-label="Main Navigation"
             role="navigation"
         >
-            {/* Main navigation section */}
-            <nav aria-label="Main menu">
-                <h2 className="sr-only">Main Menu</h2>
-                <ul className="flex flex-col gap-4 list-none m-0 p-0">
-                    {navItems.map(({ to, label, icon }) => (
-                        <li key={to}>
-                            <NavLink
-                                to={to}
-                                end
-                                className={({ isActive }) =>
-                                    `flex gap-2 items-center p-2 rounded-md transition-colors ${
-                                        isActive
-                                            ? "bg-blue-50 text-blue-500 focus:outline-blue-500  ring-2 focus:ring-2 focus:ring-blue-500"
-                                            : "text-gray-700 hover:bg-gray-100 focus:outline-gray-500 focus:ring-2 focus:ring-gray-500"
-                                    }`
-                                }
-                                aria-current={({ isActive }) =>
-                                    isActive ? "page" : undefined
-                                }
-                            >
-                                {({ isActive }) => (
-                                    <>
-                                        {icon(isActive)}
-                                        <span>{label}</span>
-                                    </>
-                                )}
-                            </NavLink>
-                        </li>
-                    ))}
-                </ul>
-            </nav>
+            <div className=" space-y-8">
+                <header
+                    className="flex items-center gap-2 cursor-pointer focus:ring-2 focus:outline-2 focus:outline-gray-500 rounded-md focus:ring-gray-500 transition-colors"
+                    onClick={() => {
+                        navigate("/");
+                    }}
+                    role="link"
+                    aria-label="Company logo"
+                    tabIndex={"0"}
+                    onKeyDown={(e) => {
+                        if (e.key === "Enter") {
+                            navigate("/");
+                        }
+                    }}
+                >
+                    <img
+                        className="w-10"
+                        src={companyLogo}
+                        alt="Company logo"
+                    />
+                    <h1 className="text-shadow-primary-hover text-primary/80 font-primary font-semibold text-xl ">
+                        KANBAN
+                    </h1>
+                </header>
+                <nav aria-label="Main menu">
+                    <h2 className="sr-only">Main Menu</h2>
+                    <ul className="flex flex-col gap-4 list-none m-0 p-0">
+                        {navItems.map(({ to, label, icon }) => (
+                            <li key={to}>
+                                <NavLink
+                                    to={to}
+                                    end
+                                    className={({ isActive }) =>
+                                        `flex gap-2 items-center p-2 rounded-md transition-colors ${
+                                            isActive
+                                                ? "bg-blue-50 text-blue-500 focus:outline-blue-500  ring-2 focus:ring-2 focus:ring-blue-500"
+                                                : "text-gray-700 hover:bg-gray-100 focus:outline-gray-500 focus:ring-2 focus:ring-gray-500"
+                                        }`
+                                    }
+                                    aria-current={({ isActive }) =>
+                                        isActive ? "page" : undefined
+                                    }
+                                >
+                                    {({ isActive }) => (
+                                        <>
+                                            {icon(isActive)}
+                                            <span>{label}</span>
+                                        </>
+                                    )}
+                                </NavLink>
+                            </li>
+                        ))}
+                    </ul>
+                </nav>
+            </div>
 
             {/* Footer navigation section */}
-            <nav aria-label="Utility menu">
+            <nav aria-label="Utility menu" className="sticky bottom-0">
                 <h2 className="sr-only">Utility Menu</h2>
                 <ul className="flex flex-col gap-4 list-none m-0 p-0">
                     {bottomSidebar.map(({ to, label, icon }) => (
