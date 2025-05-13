@@ -245,7 +245,7 @@ const SideBar = () => {
 
     return (
         <aside
-            className="border-r-gray-800/40 border flex flex-col justify-between p-4"
+            className="border-r-gray-800/40 border flex flex-col justify-between p-4 max-h-screen"
             aria-label="Main Navigation"
             role="navigation"
         >
@@ -273,40 +273,42 @@ const SideBar = () => {
                         KANBAN
                     </h1>
                 </header>
-                <nav aria-label="Main menu">
-                    <h2 className="sr-only">Main Menu</h2>
-                    <ul className="flex flex-col gap-4 list-none m-0 p-0">
-                        {navItems.map(({ to, label, icon }) => (
-                            <li key={to}>
-                                <NavLink
-                                    to={to}
-                                    end
-                                    className={({ isActive }) =>
-                                        `flex gap-2 items-center p-2 rounded-md transition-colors ${
-                                            isActive
-                                                ? "bg-blue-50 text-blue-500 focus:outline-blue-500  ring-2 focus:ring-2 focus:ring-blue-500"
-                                                : "text-gray-700 hover:bg-gray-100 focus:outline-gray-500 focus:ring-2 focus:ring-gray-500"
-                                        }`
-                                    }
-                                    aria-current={({ isActive }) =>
-                                        isActive ? "page" : undefined
-                                    }
-                                >
-                                    {({ isActive }) => (
-                                        <>
-                                            {icon(isActive)}
-                                            <span>{label}</span>
-                                        </>
-                                    )}
-                                </NavLink>
-                            </li>
-                        ))}
-                    </ul>
-                </nav>
+                <div>
+                    <nav aria-label="Main menu" className="sticky top-0">
+                        <h2 className="sr-only">Main Menu</h2>
+                        <ul className="flex flex-col gap-4 list-none m-0 p-0">
+                            {navItems.map(({ to, label, icon }) => (
+                                <li key={to}>
+                                    <NavLink
+                                        to={to}
+                                        end
+                                        className={({ isActive }) =>
+                                            `flex gap-2 items-center p-2 rounded-md transition-colors ${
+                                                isActive
+                                                    ? "bg-blue-50 text-blue-500 focus:outline-blue-500  ring-2 focus:ring-2 focus:ring-blue-500"
+                                                    : "text-gray-700 hover:bg-gray-100 focus:outline-gray-500 focus:ring-2 focus:ring-gray-500"
+                                            }`
+                                        }
+                                        aria-current={({ isActive }) =>
+                                            isActive ? "page" : undefined
+                                        }
+                                    >
+                                        {({ isActive }) => (
+                                            <>
+                                                {icon(isActive)}
+                                                <span>{label}</span>
+                                            </>
+                                        )}
+                                    </NavLink>
+                                </li>
+                            ))}
+                        </ul>
+                    </nav>
+                </div>
             </div>
 
             {/* Footer navigation section */}
-            <nav aria-label="Utility menu" className="sticky bottom-0">
+            <nav aria-label="Utility menu" className="">
                 <h2 className="sr-only">Utility Menu</h2>
                 <ul className="flex flex-col gap-4 list-none m-0 p-0">
                     {bottomSidebar.map(({ to, label, icon }) => (
@@ -315,7 +317,7 @@ const SideBar = () => {
                                 to={to}
                                 end
                                 className={({ isActive }) =>
-                                    `flex gap-2 items-center p-2 rounded-md transition-colors ${
+                                    `flex gap-2 items-center p-2 rounded-md transition-colors  ${
                                         isActive
                                             ? "bg-blue-50 text-blue-500 focus:outline-blue-500 focus:ring-2 focus:ring-blue-500"
                                             : "text-gray-700 hover:bg-gray-100 focus:outline-gray-500 focus:ring-2 focus:ring-gray-500"

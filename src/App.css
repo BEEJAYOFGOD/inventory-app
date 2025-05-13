@@ -1,8 +1,21 @@
-@import "tailwindcss";
 @import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap");
+@import "tailwindcss";
 
 @theme {
     --color-primary: #1366d9;
     --color-primary-hover: #0f5bb5;
+    --color-products: #e19133;
+    --color-selling: #845ebc;
+    --color-stocks: #f36960;
     --font-primary: "Inter", sans-serif;
+
+    /* src/styles/buttons.css */
+}
+
+.primary {
+    @apply text-gray-700 dark:text-gray-300 hover:bg-blue-700 dark:hover:bg-blue-600 active:bg-blue-700 active:text-blue-500 dark:active:text-blue-200;
+}
+
+* {
+    font-family: "Inter";
 }

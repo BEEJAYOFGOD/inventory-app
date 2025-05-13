@@ -16,8 +16,7 @@ const DashboardLayout = () => {
         <div className="grid  grid-cols-[180px_2fr] min-h-screen ">
             <SideBar />
 
-            {/* Main Content */}
-            <main className="">
+            <main className="h-screen flex flex-col">
                 <header className="flex justify-between px-6 py-4 border-gray-600/30 border-b">
                     <div className="flex  items-center w-fit gap-2 border border-gray-400  rounded-sm px-2 py-1">
                         <div>
@@ -25,11 +24,10 @@ const DashboardLayout = () => {
                         </div>
                         <div className="">
                             <input
-                                className="outline-0  w-xs"
+                                className="outline-0 w-[200px] sm:w-[250px] md:w-[300px]"
                                 type="text"
-                                name=""
-                                id="seacrchQuery"
-                                placeholder="search product , supplier , order "
+                                id="searchQuery"
+                                placeholder="Search product, supplier, order"
                             />
                         </div>
                     </div>
@@ -52,7 +50,9 @@ const DashboardLayout = () => {
                         ></div>
                     </div>
                 </header>
-                <Outlet />
+                <div className="flex-1 overflow-y-auto">
+                    <Outlet />
+                </div>
             </main>
         </div>
     );

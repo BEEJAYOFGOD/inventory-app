@@ -70,3 +70,7 @@ export const doSendEmailVerification = (user) => {
 
     return sendEmailVerification(user, actionCodeSettings);
 };
+
+export const doSendPasswordResetEmail = (email) => {
+    return sendPasswordResetEmail(auth, email);
+};
