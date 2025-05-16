@@ -3,6 +3,7 @@ import {
     createRoutesFromElements,
     RouterProvider,
     Route,
+    Navigate,
 } from "react-router-dom";
 
 import "./App.css";
@@ -14,12 +15,17 @@ import { AuthProvider } from "./contexts/authContext/userContext";
 import DashboardLayout from "./Layouts/DashboardLayout";
 import Dashboard from "./pages/Dashboard";
 import ProtectedRoute from "./components/ProtectedRoutes";
-import Inventory from "./pages/inventory";
+import Inventory from "./Layouts/InventoryLayout";
 import Report from "./pages/Report";
 import Suppliers from "./pages/supplier";
 import Orders from "./pages/Orders";
 import Store from "./pages/store";
 import Settings from "./pages/settings";
+import InventoryContent from "./pages/inventoryContent";
+import ProductDisplay from "./components/ProductDisplay";
+import ProductOverview from "./components/ProductOverview";
+import ProductPurchases from "./components/ProductPurchases";
+import ProductLoader from "./loader func/ProductLoader";
 
 const router = createBrowserRouter(
     createRoutesFromElements(
@@ -29,6 +35,7 @@ const router = createBrowserRouter(
                     <Route index element={<SignUp />} />
                     <Route path="/login" element={<LogIn />} />
                 </Route>
+
                 <Route path="/dashboard" element={<DashboardLayout />}>
                     <Route
                         index
@@ -38,6 +45,7 @@ const router = createBrowserRouter(
                             </ProtectedRoute>
                         }
                     />
+                    // Inventory layout with nested routes
                     <Route
                         path="/dashboard/inventory"
                         element={
@@ -45,7 +53,59 @@ const router = createBrowserRouter(
                                 <Inventory />
                             </ProtectedRoute>
                         }
-                    />
+                    >
+                        <Route
+                            index
+                            element={
+                                <Navigate to="/dashboard/inventory/1" replace />
+                            }
+                        />
+                        <Route
+                            path=":page"
+                            element={
+                                <ProtectedRoute>
+                                    <InventoryContent />
+                                </ProtectedRoute>
+                            }
+                        />
+                    </Route>
+                    <Route
+                        path="/dashboard/inventory/products/:product"
+                        element={<ProductDisplay />}
+                    >
+                        <Route
+                            index
+                            element={
+                                <ProtectedRoute>
+                                    <ProductOverview />
+                                </ProtectedRoute>
+                            }
+                        />
+                        <Route
+                            path="purchases"
+                            element={
+                                <ProtectedRoute>
+                                    <ProductPurchases />
+                                </ProtectedRoute>
+                            }
+                        />
+                        <Route
+                            path="adjustments"
+                            element={
+                                <ProtectedRoute>
+                                    <ProductPurchases />
+                                </ProtectedRoute>
+                            }
+                        />
+                        <Route
+                            path="history"
+                            element={
+                                <ProtectedRoute>
+                                    <ProductPurchases />
+                                </ProtectedRoute>
+                            }
+                        />
+                    </Route>
                     <Route
                         path="/dashboard/report"
                         element={

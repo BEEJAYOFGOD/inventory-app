@@ -1,11 +1,12 @@
 import { NavLink } from "react-router-dom";
 import { useAuth } from "../contexts/authContext/userContext";
 import companyLogo from "../assets/images/company_logo.svg";
-import { useNavigate } from "react-router-dom";
+import { useNavigate, useLocation } from "react-router-dom";
 
 const SideBar = () => {
     const { logOut } = useAuth();
     const navigate = useNavigate();
+    const location = useLocation();
 
     const navItems = [
         {
@@ -281,12 +282,16 @@ const SideBar = () => {
                                 <li key={to}>
                                     <NavLink
                                         to={to}
+                                        // end={true}
                                         end
                                         className={({ isActive }) =>
                                             `flex gap-2 items-center p-2 rounded-md transition-colors ${
-                                                isActive
+                                                isActive ||
+                                                location.pathname.startsWith(
+                                                    `/dashboard/${to}`
+                                                )
                                                     ? "bg-blue-50 text-blue-500 focus:outline-blue-500  ring-2 focus:ring-2 focus:ring-blue-500"
-                                                    : "text-gray-700 hover:bg-gray-100 focus:outline-gray-500 focus:ring-2 focus:ring-gray-500"
+                                                    : "text-gray-700 hover:bg-gray-100 focus:outline-gray-500"
                                             }`
                                         }
                                         aria-current={({ isActive }) =>

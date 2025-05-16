@@ -19,3 +19,11 @@
 * {
     font-family: "Inter";
 }
+
+button {
+    cursor: pointer;
+}
+
+body {
+    cursor: url("./assets/icons/cursor.png"), auto;
+}

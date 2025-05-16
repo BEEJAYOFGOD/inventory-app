@@ -112,6 +112,7 @@ const Login = () => {
                 toast.error(err.code);
             }
         } finally {
+            setFormData(defaultFormData);
             setIsLoading(false);
         }
     };

@@ -1,0 +1,3882 @@
+WEBVTT
+
+1
+00:01:35.320 --> 00:01:39.239
+YounG Eli: So there was a sign somewhere when the peso was done.
+
+2
+00:01:40.397 --> 00:01:41.259
+YounG Eli: I don't know.
+
+3
+00:01:42.190 --> 00:01:44.810
+YounG Eli: What is she doing?
+
+4
+00:01:47.760 --> 00:01:50.830
+YounG Eli: Oh, darling.
+
+5
+00:02:13.890 --> 00:02:15.098
+iPhone : Why did you want me to.
+
+6
+00:03:47.084 --> 00:03:51.999
+Sui Ghana: Gm, GM, everyone. Please. Can you hear me?
+
+7
+00:03:53.910 --> 00:03:58.190
+Sui Ghana: If you can hear me? Kindly give me a thumbs up? Okay, yeah.
+
+8
+00:03:58.750 --> 00:04:04.130
+Sui Ghana: So we've come again tonight. Today is day 4.
+
+9
+00:04:06.695 --> 00:04:09.329
+Sui Ghana: Okay, what's come?
+
+10
+00:04:11.762 --> 00:04:15.769
+Sui Ghana: Okay, so let's get more people here.
+
+11
+00:04:16.790 --> 00:04:33.069
+Sui Ghana: Yeah, let's wait. If we get to 10, then 10 participants. Then we just got to 10. Okay, welcome guys. I don't know if we should wait for other people, or we can just
+
+12
+00:04:33.380 --> 00:04:40.470
+Sui Ghana: move on because we have a lot to learn, and if we're able to finish the
+
+13
+00:04:41.620 --> 00:04:43.919
+Sui Ghana: like, what we're supposed to learn for
+
+14
+00:04:44.030 --> 00:04:47.850
+Sui Ghana: each particular day early, we can end early.
+
+15
+00:04:48.720 --> 00:04:54.610
+Sui Ghana: but we usually we extend the time to past 10, which is not very good.
+
+16
+00:04:55.790 --> 00:04:59.540
+Sui Ghana: Okay, Lion, I think we can start. We have about 12 people here.
+
+17
+00:05:00.080 --> 00:05:06.599
+Sui Ghana: so we can actually start. Others will join later, and we have the recording is on. So
+
+18
+00:05:07.310 --> 00:05:10.240
+Sui Ghana: if anything, we'll send the recorded.
+
+19
+00:05:11.090 --> 00:05:17.280
+Sui Ghana: Oh, we'll send the recording to them. Okay, so let's start welcome, guys.
+
+20
+00:06:03.370 --> 00:06:06.059
+Lion Prado: Jim, Jim, Jim.
+
+21
+00:06:07.480 --> 00:06:09.000
+Nhyiraba : M GM, GM.
+
+22
+00:06:09.490 --> 00:06:15.110
+Lion Prado: Alright. Good evening once again. Yeah. So before we commence, and learning.
+
+23
+00:06:15.110 --> 00:06:15.590
+Flashman: Yep.
+
+24
+00:06:15.590 --> 00:06:16.300
+Lion Prado: 1,000.
+
+25
+00:06:16.970 --> 00:06:17.880
+Flashman: Bye.
+
+26
+00:06:18.670 --> 00:06:19.440
+Lion Prado: Yeah.
+
+27
+00:06:21.710 --> 00:06:27.809
+Lion Prado: But yeah, so before we continue today.
+
+28
+00:06:28.330 --> 00:06:34.819
+Lion Prado: I would like to ask to wrap up what we did yesterday, using the next 15 min. Yeah.
+
+29
+00:06:35.550 --> 00:06:37.739
+Lion Prado: So yesterday we talked about
+
+30
+00:06:39.010 --> 00:06:47.839
+Lion Prado: variables. I made mention of variables as container for storing data. I gave examples of some of the primitive primitive types of
+
+31
+00:06:47.960 --> 00:06:50.690
+Lion Prado: Barbaza we have.
+
+32
+00:06:52.480 --> 00:06:58.179
+Lion Prado: So I made. I made mention of the Booleans, the unsigned integers, addresses.
+
+33
+00:06:58.290 --> 00:07:18.370
+Lion Prado: and vectors and and strings. Those are some affinity type, and I also make sure that whenever we are declaring variable we always use a let, let keyword, and after we give the name of the variable, we give the type and notation which is when we are declaring a variable, and after the name, we declare that the variable is an unsigned integer.
+
+34
+00:07:18.520 --> 00:07:24.410
+Lion Prado: a Boolean, or an address. That's the type of notation I give and where I test string to.
+
+35
+00:07:24.530 --> 00:07:44.730
+Lion Prado: And also I made mention of a mutability that when you're declaring a variable if you declare it without a mute keyword, meaning automatically, the variable is immutable, meaning. You cannot change each state, or you cannot change the variable value. Again, probably in your code. So the moment you want to do that.
+
+36
+00:07:45.280 --> 00:07:57.589
+Lion Prado: you have to add a mute keyword to it. Yes, and also there's something called variables by shadowing meaning. I'll declare a variable, and I'll re-declare the variable again
+
+37
+00:07:57.700 --> 00:08:03.389
+Lion Prado: the moment I do that I've overshadowed the 1st variable. I declared. Something that's something in move.
+
+38
+00:08:03.620 --> 00:08:11.669
+Lion Prado: And I also made mention of the integer type. You have the U 8, which is the 8 bit U, 16 u, 32 u, 64
+
+39
+00:08:12.020 --> 00:08:17.520
+Lion Prado: you want to eat. I also made of the Yuan 2, 6,
+
+40
+00:08:17.820 --> 00:08:29.450
+Lion Prado: and I also made mention of the operations we have. We move. I made mention. We have the addition, operation, the subtraction, the multiplication, the mood, loss, and the reminder.
+
+41
+00:08:30.240 --> 00:08:36.690
+Lion Prado: and also a division. Yeah, hey?
+
+42
+00:08:37.200 --> 00:08:42.249
+Lion Prado: And I made mention of some of the comparison operation which which has seen over a year
+
+43
+00:08:42.640 --> 00:08:46.920
+Lion Prado: the equal. They're not equal.
+
+44
+00:08:47.110 --> 00:08:58.390
+Lion Prado: They're greater than they're less than they're greater than or equal to. They're less than or equal to. And these are some of the logical operations that we have, which is the Ampersand.
+
+45
+00:08:58.590 --> 00:09:08.530
+Lion Prado: With this is the end operator. This is the all operator. This is the not true meaning, the negation of true, which is false. You also have. We can also have
+
+46
+00:09:08.790 --> 00:09:16.029
+Lion Prado: not false meaning. The not force is negation of, not force, which is that one is always going to return. True.
+
+47
+00:09:17.140 --> 00:09:27.310
+Lion Prado: I also made mention of controls, flow statements, and the control flow statements you have the if else, and the loops. So these are the if else works. So you you
+
+48
+00:09:27.680 --> 00:09:51.490
+Lion Prado: make a condition. So once the condition is meant, a particular block of code is written. So if this condition is is true, the 1st part of which is this block of code is mentioned, but if the condition is false, the second part of the code is is being run, and if the condition is neither true or false, the last part of the code is what runs.
+
+49
+00:09:52.410 --> 00:09:57.310
+Lion Prado: And also I also made mention of while loops and how it works until a setting condition is met.
+
+50
+00:09:59.350 --> 00:10:09.829
+Lion Prado: Yeah, so these are some of the stuffs we walked through yesterday, and also I think, we stop on function. I made a functional. I made mention of functions to be reusable
+
+51
+00:10:10.020 --> 00:10:11.940
+Lion Prado: block block of code. Right?
+
+52
+00:10:12.590 --> 00:10:39.099
+Lion Prado: Well, I was like, they are the building block of our mood move language. And I said, it's very important for us to understand functions. Yeah, cause they are called the user transactions. They are called from a user transactions. Like, I said, they end as like they act as our Api to the front end, meaning whatever we are going to do in our react application or the interaction that we are going to do, we are just going to be calling the functions from the move. Smart contracts. Yeah.
+
+53
+00:10:41.800 --> 00:10:57.380
+Lion Prado: So functions. I mentioned that function can take arguments and retain a value. And you always have to also determine the value type that a function is retaining, just like when we are declaring, when we are declaring variables.
+
+54
+00:10:57.560 --> 00:11:04.980
+Lion Prado: we declare the type of the variable. Also, when we are declaring function. I also made mention, hey.
+
+55
+00:11:05.460 --> 00:11:30.749
+Lion Prado: I also made mention of the type that a function is retaining. So over here you can see the function is retaining a U. 64. And I also said, for unsigned integers always make sure the type and notation are always the same. If it's U. 64 in a particular block, make sure it is U. 64 within that block, and not to make a mess out of the unsigned integers, else your code is not going to run is going to abort errors.
+
+56
+00:11:32.580 --> 00:11:35.129
+Lion Prado: and also on top of that.
+
+57
+00:11:37.240 --> 00:12:07.219
+Lion Prado: I was like they are just like in other mobile, and I was like by default. If you write a function without adding any modifier over here, we have public. If you write a function without added by default. The function is private. By the moment we add it it comes public. And I also mentioned, made mention of the init function which runs only once in our code, and it runs when the package is being deployed onto the blockchain. Yes, so these are some of the basic stuff we did yesterday. Introduction.
+
+58
+00:12:07.420 --> 00:12:20.429
+Lion Prado: Yes, so I don't know if you. We have some 8 min before I continue with today. If you like me to go over something before I continue, probably, or you have some. You want to do some research, and on something you want to ask some
+
+59
+00:12:20.650 --> 00:12:21.800
+Lion Prado: question. Yeah.
+
+60
+00:12:36.320 --> 00:12:43.390
+Lion Prado: are we all good I can. Can I continue with today's session? If yes, you can just give me a thumbs up. And I'll just continue with today's sessions.
+
+61
+00:12:46.150 --> 00:12:50.470
+Lion Prado: Today's session. I was saving, yeah, okay, great.
+
+62
+00:12:52.270 --> 00:12:56.800
+Lion Prado: And so I will share today's session in a particular Github Repo.
+
+63
+00:13:06.850 --> 00:13:10.540
+Lion Prado: So we are going to create a new move package.
+
+64
+00:13:24.400 --> 00:13:25.160
+Lion Prado: Wow.
+
+65
+00:13:40.520 --> 00:13:42.910
+Lion Prado: George, please, you have any question.
+
+66
+00:13:47.090 --> 00:13:47.930
+George Nii Amoah Odamtten: Hello!
+
+67
+00:13:48.270 --> 00:13:50.579
+Lion Prado: Yeah, I was asking if you have any question.
+
+68
+00:13:51.580 --> 00:13:58.878
+George Nii Amoah Odamtten: Oh, no, no, no! I just joined, so I'll have a look at what's going on and see any question comes up.
+
+69
+00:13:59.430 --> 00:14:00.360
+Lion Prado: Okay.
+
+70
+00:14:10.620 --> 00:14:20.450
+Lion Prado: so we are going to create a simple package called function examples. Then we will combine some of the stuffs we did yesterday, which is variable declaration and stuffs. Yeah.
+
+71
+00:14:21.950 --> 00:14:50.750
+Lion Prado: and probably probably over a code. And I'll point someone and probably ask you, what is that line of what is that line of code doing? Or what am I doing on that particular line of code? And you, you explain it to us. So let me, the class interactive. Like I said, this week I'll be doing a lot of talking. But for next week it's going to be 60, 40. I'll do 40% talking. Then you you guys will do 60% talking. You, you teach me.
+
+72
+00:14:55.690 --> 00:15:05.059
+Lion Prado: Yeah. So what is the command to create a new move package? You can. You can use the chat. But you can. So I want to create a function a package with the name function, example.
+
+73
+00:15:05.210 --> 00:15:11.040
+Lion Prado: Yeah. So if you can, you can test the command in the chat box, and and I'll copy and paste it.
+
+74
+00:15:17.670 --> 00:15:22.430
+Lion Prado: Okay, thanks, Lawrence. I I just copied.
+
+75
+00:15:26.800 --> 00:15:32.070
+Lion Prado: and the name of my, the function I want to create today is called function.
+
+76
+00:15:34.140 --> 00:15:35.380
+Lion Prado: Example.
+
+77
+00:15:37.920 --> 00:15:41.239
+Lion Prado: Yeah. So as you can see, the moment I run it.
+
+78
+00:15:41.440 --> 00:15:46.330
+Lion Prado: the function example has been created has been created over here.
+
+79
+00:15:46.450 --> 00:15:51.260
+Lion Prado: and when it was created I'm going to explain how the packages work.
+
+80
+00:15:51.410 --> 00:15:53.119
+Lion Prado: You see, we have sources.
+
+81
+00:15:53.300 --> 00:15:58.890
+Lion Prado: and this sources is where we write our dot move code. So the moment you create a.
+
+82
+00:15:59.130 --> 00:16:06.400
+Lion Prado: you create a package the 1st thing the 1st thing the
+
+83
+00:16:06.510 --> 00:16:14.299
+Lion Prado: what a package and a Swiss cli does for you is that it will create a 1st move code with the name of the
+
+84
+00:16:15.120 --> 00:16:23.390
+Lion Prado: package you created, which was function example. So you can see our 1st package is called function, example, dot move. Yeah. And it's even going to name.
+
+85
+00:16:23.990 --> 00:16:26.750
+Lion Prado: So I can delete all these things.
+
+86
+00:16:34.440 --> 00:16:36.220
+Lion Prado: And it's even going to
+
+87
+00:16:36.320 --> 00:16:46.340
+Lion Prado: name the first.st The name of the your 1st model, which is, I made models are like class as function examples. And is the name of my package.
+
+88
+00:16:46.510 --> 00:16:50.719
+Lion Prado: Yeah. So you see, if I go to the it also creates a gate. Ignore
+
+89
+00:16:50.950 --> 00:16:56.940
+Lion Prado: and let me go to the this page. The dot. Tml, you see, we have seen
+
+90
+00:16:57.090 --> 00:16:59.619
+Lion Prado: package. We are seeing name.
+
+91
+00:17:00.020 --> 00:17:02.789
+Lion Prado: We are seeing an addition.
+
+92
+00:17:03.430 --> 00:17:05.579
+Lion Prado: We are seeing dependencies.
+
+93
+00:17:06.060 --> 00:17:07.860
+Lion Prado: We are seeing addresses.
+
+94
+00:17:07.970 --> 00:17:14.929
+Lion Prado: and it's giving us examples of addresses, and we are seeing dev dependencies and deaf addresses.
+
+95
+00:17:15.220 --> 00:17:19.619
+Lion Prado: So this is, if you read, dependence was like for remote import, use the gates.
+
+96
+00:17:20.490 --> 00:17:25.100
+Lion Prado: and first.st At 1st this was this gate was pointing to the
+
+97
+00:17:25.329 --> 00:17:31.949
+Lion Prado: 3 Github repo, but based on some updates, it's no more pointing to it again.
+
+98
+00:17:33.700 --> 00:17:36.959
+Lion Prado: Yeah. So explaining it in details.
+
+99
+00:17:37.830 --> 00:17:39.820
+Lion Prado: So I'll 1st start with package.
+
+100
+00:17:40.680 --> 00:17:42.819
+Lion Prado: Yeah. So package and
+
+101
+00:17:43.230 --> 00:17:52.636
+Lion Prado: package. I like, I was like how we create our normal Java Javascript application. And we use the create, react, app, and it. It creates a whole package for us with
+
+102
+00:17:53.000 --> 00:18:16.819
+Lion Prado: and predefined react examples. And when you run into, you see, the react logo is displaying. So it's like you don't need to be writing some certain kind of code which is always going to run across the code. So it makes the work easier. So that's exactly how package also works for us. And so the package is what we publish to the blockchain. Actually, that's what you publish to the blockchain. And if you publish the blockchain.
+
+103
+00:18:16.940 --> 00:18:32.459
+Lion Prado: we get a unique Id for it. And because we get a unique id for it the particular object Id is going to be assigned to our wallet address, but we need to understand how it's working. So move is a language for writing smart contracts, and what we all know.
+
+104
+00:18:45.830 --> 00:18:52.860
+Lion Prado: Sorry. So move. Move is a language like I was saying, for writing sparse contract. We've made mention of it from day one
+
+105
+00:18:55.516 --> 00:18:59.439
+Lion Prado: yeah, yeah. My, my audio was. I hope I'm audible now.
+
+106
+00:19:02.990 --> 00:19:05.020
+Lion Prado: And am I audible
+
+107
+00:19:05.460 --> 00:19:09.740
+Lion Prado: because I'm sharing my screen? If you even make a reaction. I will not see it so.
+
+108
+00:19:09.740 --> 00:19:11.040
+Sui Ghana: Yeah, you have a big one.
+
+109
+00:19:11.390 --> 00:19:12.290
+Nhyiraba : Loud and clear.
+
+110
+00:19:12.882 --> 00:19:14.659
+George Nii Amoah Odamtten: Is he audible?
+
+111
+00:19:21.110 --> 00:19:29.989
+Lion Prado: Yeah, so programs and that are stored and run on a blockchain which are the contracts we've been saying. So when we write a package.
+
+112
+00:19:29.990 --> 00:19:32.460
+Lion Prado: Yeah, right? Yeah, right?
+
+113
+00:19:33.780 --> 00:19:50.890
+Lion Prado: Which are programs that can be stored and run on a blockchain. So any single program that is being organized are being organized into a package, and the package is being published to the blockchain, and is being identified by an address which I was saying by an object id
+
+114
+00:19:51.560 --> 00:19:58.550
+Lion Prado: like, I was saying initially. So some of the codes that I've published I don't know if there's a code yet.
+
+115
+00:19:59.830 --> 00:20:03.509
+Lion Prado: So the moment you do it, you build a project.
+
+116
+00:20:04.440 --> 00:20:09.000
+Lion Prado: See, there's this move dots. I think it's the lock. Yes.
+
+117
+00:20:10.100 --> 00:20:12.961
+Lion Prado: So if you if you build a project, yeah,
+
+118
+00:20:13.380 --> 00:20:16.359
+Lion Prado: and you publish it, you're going to get a move dot lock.
+
+119
+00:20:16.580 --> 00:20:20.780
+Lion Prado: and when you do it, the object, the package Id
+
+120
+00:20:21.620 --> 00:20:26.090
+Lion Prado: will be automatically be here. So these the object ids that were assigned to it.
+
+121
+00:20:26.330 --> 00:20:29.219
+Lion Prado: So I I don't know that. So as you can
+
+122
+00:20:29.330 --> 00:20:32.209
+Lion Prado: the environment you did on also, Michelle. You see, I seen.
+
+123
+00:20:32.570 --> 00:20:33.480
+Sophylon: Environmental.
+
+124
+00:20:33.480 --> 00:20:52.090
+Lion Prado: Dot testnet meaning this particular package, Id is on testnet, and if I also publish it on Devnet, it will create a new environment. So as you can see, meaning everything over under here is for environment. And these are the dependencies. And this is the move package. So this move package is pointing to the 3 Github repo.
+
+125
+00:20:54.380 --> 00:20:55.160
+Sophylon: No.
+
+126
+00:20:56.270 --> 00:20:58.670
+Lion Prado: And probably if you are using
+
+127
+00:21:01.560 --> 00:21:06.890
+Lion Prado: normally, most of the financial defi apps make use of the deep book.
+
+128
+00:21:07.250 --> 00:21:11.369
+Lion Prado: So it's more like a a framework or an SDK to use.
+
+129
+00:21:13.070 --> 00:21:37.410
+Lion Prado: So these are the dependencies we have. Bridge, give book, move, studio libraries and the switch system, and initially, we used to import all of this, but because of more upgrades, there's no need for you to be importing this kind of stuff in your code again. Yeah. So if you publish, you get an id like I was saying to the package, and this Id. If I take this id to the blockchain, I'll see the owner of
+
+130
+00:21:37.610 --> 00:21:39.970
+Lion Prado: this particular package. Yeah.
+
+131
+00:21:45.440 --> 00:22:07.699
+Lion Prado: So to create a new package is what I just did running that command. And after after we do it, we get this structure for the package, the package name. We have the sources we have test where we write our test functions, and we have the get ignore and the Movetm Om, which serves as the engine of our package.
+
+132
+00:22:07.730 --> 00:22:18.090
+Lion Prado: So don't. And sometimes don't really be altering around over here, else you just create errors in your code, this or yeah itself, something like the engine of our of our code.
+
+133
+00:22:20.220 --> 00:22:24.649
+Lion Prado: And it's not composure to be writing tests. But it is a good habit to write test.
+
+134
+00:22:30.210 --> 00:22:44.089
+Lion Prado: So the dependency section that we are seeing is being used to specify the dependencies of our projects. So each dependency is specified as a key. So each dependency so each dependency that we use
+
+135
+00:22:44.550 --> 00:22:46.179
+Lion Prado: is being specified
+
+136
+00:22:46.850 --> 00:22:58.630
+Lion Prado: as a key value pair where the key, you know, is the name of our dependency. And the value is the dependency specification, which is the URL.
+
+137
+00:22:58.750 --> 00:23:05.119
+Lion Prado: Yeah. So initially, they were pointing to it. But they stopped. But I see this. So they've
+
+138
+00:23:05.720 --> 00:23:26.780
+Lion Prado: comment them, or so initially, it was always pointing to the Github repo as our dependency. But, like I said, due to some updates, they've commented out of these tabs. Yeah, but it is there, because probably we're using something. It will not work. Yeah. So probably you just have to come and comment it. Then you do some changes over here for it to work for you.
+
+139
+00:23:35.720 --> 00:23:46.819
+Lion Prado: though we also seen a dev dependencies over here. This section allows for overriding dependencies for tests.
+
+140
+00:23:46.960 --> 00:24:00.999
+Lion Prado: Yeah, so actually, dev dependency session is is the same as our addresses work, but that one only works for the test and the dev mode important to it is very important for us, and to know that it is impossible
+
+141
+00:24:01.040 --> 00:24:17.130
+Lion Prado: to introduce new alliances in this section, meaning I cannot come and introduce a new dev dependency over here. You see, it is local. It is pointing to our build. Yeah. So the moment we build it, we automatically get a build, a build file which is over here.
+
+142
+00:24:17.550 --> 00:24:24.319
+Lion Prado: And these are build files with a byte code and stuff. Yeah, so this way, the dev dependencies point you automatically.
+
+143
+00:24:25.840 --> 00:24:27.639
+Lion Prado: That's when you build your projects.
+
+144
+00:24:31.800 --> 00:24:36.530
+Lion Prado: So let's also explain our address this way. So addresses
+
+145
+00:24:38.810 --> 00:25:07.970
+Lion Prado: our addresses work. So it's a unique identifier of a location on a blockchain. That's our addresses are. So we are being identified by our addresses on the blockchain. Yeah, so initially, we all knew, like. It's difficult to keep our addresses in our head. That's the reason why there is 3 Ns. Where you can buy a specific domain, and you hook your address to it for you to be easily for you to remember it easily. Yeah. So it's used to identify our packages
+
+146
+00:25:08.110 --> 00:25:11.930
+Lion Prado: and our accounts, and also objects.
+
+147
+00:25:12.100 --> 00:25:27.149
+Lion Prado: So they they have a fixed size of 32 Byte, that's and it is usually represented as a decimal string, and it's always prefixed with 0 X, like, I was saying, it's very important to always start your address with 0 X,
+
+148
+00:25:27.490 --> 00:25:32.990
+Lion Prado: else you're always going to get error. So it is always perfect with that particular value. 0 X.
+
+149
+00:25:37.820 --> 00:25:50.420
+Lion Prado: And one thing I've noticed about Sue is that they have some reserve addresses that are used to identify standard packages and objects. Yeah, so reverse reserve addresses, meaning no one
+
+150
+00:25:50.650 --> 00:25:58.619
+Lion Prado: can never use that particular address, or automatically be assigned that and some of those addresses are the Swiss Standard library.
+
+151
+00:25:58.830 --> 00:26:05.440
+Lion Prado: the C framework and the clock system. Yeah. So if I go the move dot clock.
+
+152
+00:26:09.180 --> 00:26:14.619
+Lion Prado: Yeah. So this has a unique address to it. I think it's 0 x 0 0 1.
+
+153
+00:26:15.020 --> 00:26:19.930
+Lion Prado: So you see, anytime we deploy our code and you go to the
+
+154
+00:26:22.080 --> 00:26:25.099
+Lion Prado: I don't know if it will show over here. 3.
+
+155
+00:26:27.680 --> 00:26:29.639
+Lion Prado: Okay, they don't show up here.
+
+156
+00:26:30.730 --> 00:26:39.434
+Lion Prado: You see, there are some specific address and a normal user kind. No use just like the primitive types. I cannot.
+
+157
+00:26:40.640 --> 00:26:52.890
+Lion Prado: for I cannot make a vector a variable and assign it as vector those kind of values are already taken meaning, we cannot use it. So those are what I mean by reserve addresses
+
+158
+00:26:57.510 --> 00:26:59.160
+Lion Prado: and accounts.
+
+159
+00:26:59.310 --> 00:27:09.510
+Lion Prado: which is a way to identify users. So an account is generated from a private key. So if you did your
+
+160
+00:27:11.880 --> 00:27:18.489
+Lion Prado: if you 1st install your your ccli, the 1st command you are supposed to run is C
+
+161
+00:27:19.740 --> 00:27:24.189
+Lion Prado: client, yeah. So once you do that, and if you do that, and you don't have
+
+162
+00:27:24.210 --> 00:27:52.880
+Lion Prado: an account or an or an address, you are going to get some kind of error which is going to ask you whether you should connect to a full node. You have to choose yes, or or y for you to continue, and it will generate a new address for you. So once you do that, you can now run 3 clients. Yeah, this is the client for interacting with the 3 network. So these are 3 clients, options and the commands you can run. So these are the commands. You have the active address.
+
+163
+00:27:52.880 --> 00:28:17.749
+Lion Prado: the active environment, the addresses, their balance, their core. So you don't need to have this thing off it. But as you interact with it more times you get used to it, and if you forget, and you want to use a particular command, just run 3 clients, and after you run it, just search for what you have, because if you read addresses meaning it's obtained, the addresses managed by the client, meaning, if I write 3 clients addresses, it's going to output all my addresses that I have
+
+164
+00:28:17.750 --> 00:28:28.210
+Lion Prado: on this particular cli. If I write 3 client balance list, the coin balance of an address, so of my addresses I'll get my if I write 3 clients call.
+
+165
+00:28:28.400 --> 00:28:31.000
+Lion Prado: And that means I'm calling a move function.
+
+166
+00:28:31.380 --> 00:28:36.810
+Lion Prado: Yeah, I'm going to call a move function. Yeah. So we we interact with your
+
+167
+00:28:37.040 --> 00:28:43.390
+Lion Prado: cli, or you can interact your move functions with your cli before you, you connect it to your front end.
+
+168
+00:28:43.540 --> 00:29:05.940
+Lion Prado: And also we have dynamic field query, a dynamic field by it. Address, we get over there. And this environment list all 3 environment that you have. That's a devnet. The testnet and the mainnet and the faucet is used to request tokens, testnet, or devnet tokens for interacting on your projects, and the gas is to check
+
+169
+00:29:06.100 --> 00:29:30.149
+Lion Prado: the object coin. Id of the holding our gases, and this for 2 coin objects. Probably you have multiple coin objects, and you want to merge them into one coin. So this what use the merge coin, and if I run a new address meaning I'm generating, as you can see, it explains it. Generate a new address and keep pair with keypad. So the keypad is something like the private key.
+
+170
+00:29:30.340 --> 00:29:48.769
+Lion Prado: Yeah, and it and it stores on your machine. And this for when I'm adding a new environment, 3 clients, new environment. Then I'll specify the environment that I'm adding, and it's our PC notes. And if I run swing client object, I get the object info. So I want us to run 3 clients, objects
+
+171
+00:29:48.880 --> 00:29:56.340
+Lion Prado: based on on this and on this particular object we have over here.
+
+172
+00:29:59.460 --> 00:30:03.030
+Lion Prado: So she clients.
+
+173
+00:30:06.980 --> 00:30:11.320
+Lion Prado: objects, then it piece the objects, and
+
+174
+00:30:16.370 --> 00:30:22.609
+Lion Prado: it cannot read. That's not as is probably it's been deleted from the blockchain or something no.
+
+175
+00:30:22.890 --> 00:30:33.610
+Lion Prado: and this object is on testnet, and and I think mine so clients active.
+
+176
+00:30:36.030 --> 00:30:39.079
+Lion Prado: Probably I'm on Devnet. So it's not. It's not going to work.
+
+177
+00:30:39.230 --> 00:30:54.609
+Lion Prado: Yeah. So I'm on Devnet. But if if you see where I copy copied the address from which is over here. You can see it has been specified over here. Environment testnet. So because this object ids on testnet. Devnet cannot read it. So I have to switch to
+
+178
+00:30:55.130 --> 00:30:59.899
+Lion Prado: and test nets before we can read it. So let me switch.
+
+179
+00:31:13.360 --> 00:31:17.360
+Lion Prado: Yeah. So I've switched to testnet, and I can run that command now.
+
+180
+00:31:19.090 --> 00:31:24.520
+Lion Prado: Yeah. And and so, as you can see after I run the command, is it?
+
+181
+00:31:24.900 --> 00:31:27.389
+Lion Prado: Think I have to reduce it a bit.
+
+182
+00:31:30.810 --> 00:31:37.229
+Lion Prado: So this is the object, and it is saying the objects. You see, it's telling us the object type.
+
+183
+00:31:39.180 --> 00:31:45.460
+Lion Prado: So you see this, the version of the object, the object id this, the digest.
+
+184
+00:31:45.660 --> 00:31:55.950
+Lion Prado: And he's telling us the object type is a package meaning it's a move code. The owner immutable meaning. I cannot change estates unless I I create a new object.
+
+185
+00:31:56.220 --> 00:32:05.549
+Lion Prado: and this the the storage it's having. And this is the content. So in in the content. You can see that the package, the name of the package which I created.
+
+186
+00:32:06.060 --> 00:32:11.359
+Lion Prado: meaning what, when I was creating the 3 clients I named it 3 Ghana Nft.
+
+187
+00:32:11.510 --> 00:32:17.350
+Lion Prado: and these are some of the addresses. Oh, hope it's not that big for you to see. Right?
+
+188
+00:32:18.000 --> 00:32:19.699
+Lion Prado: Hope. This is okay.
+
+189
+00:32:22.530 --> 00:32:23.570
+Lion Prado: Hope this screen is here.
+
+190
+00:32:23.570 --> 00:32:24.880
+LAWRENCE APPIAH-NUAMAH: Yeah, yeah, yeah.
+
+191
+00:32:25.140 --> 00:32:25.860
+Lion Prado: Yeah.
+
+192
+00:32:25.860 --> 00:32:26.530
+TIM AKRONG: Yeah.
+
+193
+00:32:27.950 --> 00:32:37.299
+Lion Prado: Yeah. So I made mention of that. Some of the addresses are reserve addresses, and we cannot use. So you see, in my code, if I if I if I was when I was writing this code
+
+194
+00:32:37.410 --> 00:32:40.719
+Lion Prado: and I didn't use this address I just used.
+
+195
+00:32:41.450 --> 00:32:43.079
+Lion Prado: let me show you to you.
+
+196
+00:32:43.910 --> 00:32:50.669
+Lion Prado: Let me open the code. So we are interacting with this code nft sources. Nft, dot moved.
+
+197
+00:32:50.850 --> 00:32:54.990
+Lion Prado: So you can see. The import. We have 3 URL.
+
+198
+00:32:55.950 --> 00:33:06.839
+Lion Prado: But it doesn't display suite. URL is displaying 0 0 0 2. Meaning on the blockchain. 0 2 is a reserve address for Sui.
+
+199
+00:33:07.030 --> 00:33:11.230
+Lion Prado: and I have Std. And so many on a blockchain Std.
+
+200
+00:33:12.020 --> 00:33:13.839
+Lion Prado: For display.
+
+201
+00:33:15.140 --> 00:33:22.499
+Lion Prado: So I think that's supposed to be one or something. But so the import I don't know why it was is 2 over here.
+
+202
+00:33:24.670 --> 00:33:29.470
+Lion Prado: No Std was for string. Yeah, yeah, I want to see string string.
+
+203
+00:33:29.720 --> 00:33:46.210
+Lion Prado: And so hence Std is 1 1 like I was saying so over here. You see, I was importing string and string is standard. So 0 0 1 is is the reserve address on the blockchain for standard. Yes. So you see, I just pasted the object.
+
+204
+00:33:46.678 --> 00:33:57.839
+Lion Prado: Id, and I was like 3 clients. Object Id, and if if we check from the commands, it was like, it's going to retain whatever the object. So then open a new command
+
+205
+00:33:58.180 --> 00:34:00.330
+Lion Prado: and let's run suite clients.
+
+206
+00:34:03.840 --> 00:34:16.860
+Lion Prado: So if you go to objects, you see, it gets the object info. So that's the reason why, then, this particular object, Id is giving us the object info the objects type, the version, the owner and staffs.
+
+207
+00:34:17.130 --> 00:34:24.209
+Lion Prado: Yeah, so you can see Shigan nft. So this is the byte code of the contract written. And so this extracts.
+
+208
+00:34:24.449 --> 00:34:27.060
+Lion Prado: and this the nft.
+
+209
+00:34:27.239 --> 00:34:33.440
+Lion Prado: And this is the how we are defining the nft with 8 fields.
+
+210
+00:34:33.580 --> 00:34:40.190
+Lion Prado: And this F starts to mean to the nft. And this is that innate function which.
+
+211
+00:34:40.519 --> 00:34:41.799
+Sui Ghana: Can you hear me?
+
+212
+00:34:41.800 --> 00:34:42.879
+Lion Prado: Yeah, I can hear you.
+
+213
+00:34:43.699 --> 00:34:49.120
+Sui Ghana: I think black man has his hand his hand raised. Peter, Peter, can you hear me?
+
+214
+00:34:52.280 --> 00:35:10.019
+Blcvk_man: Yes, yes, yes, please, I can. Lion. I wanted to ask the algorithm signature that they use for signing on Shi. You see, like ethereum has the signature that they use, and then she also has it. So I wanted to know that was the she's algorithm signature.
+
+215
+00:35:10.730 --> 00:35:20.229
+Lion Prado: To see organizing signature. Primarily it uses the er ed, 2, 5, 5, 1, 9. Signature schema for digital signatures.
+
+216
+00:35:21.320 --> 00:35:22.860
+Sui Ghana: Let me mention it again.
+
+217
+00:35:23.320 --> 00:35:27.999
+Lion Prado: Ed. 2. No, it's even on the this one. Wait.
+
+218
+00:35:28.000 --> 00:35:29.089
+Sui Ghana: The move book.
+
+219
+00:35:29.880 --> 00:35:32.830
+Lion Prado: Not the move book here in the Cli.
+
+220
+00:35:33.630 --> 00:35:34.429
+Sui Ghana: And the cli.
+
+221
+00:35:35.380 --> 00:35:38.229
+Lion Prado: Where I'm highlighting.
+
+222
+00:35:38.340 --> 00:35:41.099
+Lion Prado: Yes, yes, I've seen it. 5, 5, 1, 9. Yeah.
+
+223
+00:35:41.100 --> 00:35:44.100
+Blcvk_man: Yes, yes, yes, yes, the flag! Yes.
+
+224
+00:35:44.270 --> 00:35:45.280
+Sui Ghana: Okay. Okay.
+
+225
+00:35:45.280 --> 00:35:47.089
+Lion Prado: Okay, so that that.
+
+226
+00:35:47.090 --> 00:35:47.550
+Blcvk_man: Thank you.
+
+227
+00:35:47.600 --> 00:35:48.630
+Lion Prado: Use. Yes.
+
+228
+00:35:50.420 --> 00:35:56.539
+Blcvk_man: I think the other one is what ethereum. You just kept something like that.
+
+229
+00:35:59.580 --> 00:36:06.820
+Lion Prado: Yeah, so it's good. So me over here is displaying the bytes code of the code this package is holding.
+
+230
+00:36:06.930 --> 00:36:07.670
+Lion Prado: Yeah.
+
+231
+00:36:08.130 --> 00:36:12.509
+Lion Prado: So that's what objects. When you run? C client. Object it does.
+
+232
+00:36:26.910 --> 00:36:30.719
+Lion Prado: and this for pay 3. Pay an amount of 3.
+
+233
+00:36:31.090 --> 00:36:37.519
+Lion Prado: If you run this pay or suite, it will transfer all your suites to the address you you specify?
+
+234
+00:36:37.810 --> 00:36:41.289
+Lion Prado: Yeah. So that's how that one works. Is there any other question?
+
+235
+00:36:42.320 --> 00:36:45.030
+Lion Prado: He said. He can't hear me? Am I? Am I.
+
+236
+00:36:45.030 --> 00:36:49.650
+Sui Ghana: Yeah, he, yeah, line, I can hear you. I don't know why he can't hear you.
+
+237
+00:36:50.810 --> 00:36:51.350
+Lion Prado: Oh, okay.
+
+238
+00:36:51.350 --> 00:36:54.339
+Sui Ghana: Okay, he said. He can hear you. Now, please go on.
+
+239
+00:36:56.060 --> 00:36:57.400
+Sui Ghana: Okay, May. I know.
+
+240
+00:36:57.400 --> 00:36:58.800
+Lion Prado: All right. All right. Yeah.
+
+241
+00:36:58.800 --> 00:36:59.620
+Sui Ghana: Yeah, so.
+
+242
+00:37:02.710 --> 00:37:13.729
+Lion Prado: So the account, like I made mention, is a way, and the account is what stores our addresses and stuff. So we support multiple cryptographic or guardians.
+
+243
+00:37:13.920 --> 00:37:26.860
+Lion Prado: which? And Peter just asked for account generation. Yeah. So the 2 supported and the most popular one that we use is the Ed, 2, 5, 5, 9. And there's also some one called, I think, Sep something something.
+
+244
+00:37:27.080 --> 00:37:41.679
+Lion Prado: And there's also a special way of generating an account which is which is most popular, and even people debate on it. So I get anyone can put it in the chat board. That type of generating that particular wallet address
+
+245
+00:37:41.800 --> 00:37:46.089
+Lion Prado: apart from the EDD. 2, 5, 5, 1, 9, and there's sex on it.
+
+246
+00:37:46.620 --> 00:37:49.890
+Lion Prado: There's a particular one. People debate a lot about it.
+
+247
+00:37:53.990 --> 00:38:01.649
+Lion Prado: If you know you can also unmute yourself and say it, or you can use it, else I should answer it myself, and I'll take the bounty myself.
+
+248
+00:38:05.600 --> 00:38:08.050
+Lion Prado: So we have. We have 3 min to answer.
+
+249
+00:38:10.310 --> 00:38:12.019
+Sophylon: Come again. Ask the question again.
+
+250
+00:38:12.630 --> 00:38:23.770
+Lion Prado: So I mean, there's a popular way of generating an account. Now, apart from using the normal pass rates and stuff, there's a popular way of generating an account.
+
+251
+00:38:24.960 --> 00:38:29.940
+Benefit girl: With all generational accounts. Yes, is it like.
+
+252
+00:38:30.060 --> 00:38:34.990
+Benefit girl: I want you to like elaborate more the question so like, I know, if it's the answer I'm thinking about.
+
+253
+00:38:34.990 --> 00:38:54.270
+Lion Prado: Okay? So this I was like, Swiss supports multiple cryptographic algorithms for account generation which Peter asked that question. I was like for the signature. It supports the Ed. 2, 5, 5, 1, 9. And there's another one called Sept. 256 k. 1.
+
+254
+00:38:54.310 --> 00:39:05.440
+Lion Prado: And I was like, there's also a special way of generating account, meaning you're not using your normal seed phrase, wallet and stuff. And there's another popular way of generating an account.
+
+255
+00:39:06.040 --> 00:39:06.930
+Benefit girl: Okay.
+
+256
+00:39:07.260 --> 00:39:10.659
+Benefit girl: Hello! I don't know. I don't know.
+
+257
+00:39:10.660 --> 00:39:15.130
+Lion Prado: Yeah, I'm giving it. I'm giving it a clue by using our socials.
+
+258
+00:39:18.550 --> 00:39:23.620
+Lion Prado: Yeah, I've given you a clue. The clue should answer that question. Zk, login, yeah, exactly.
+
+259
+00:39:23.620 --> 00:39:31.609
+Benefit girl: Yeah, yeah, I wasn't sure.
+
+260
+00:39:32.840 --> 00:39:40.570
+Benefit girl: Oh, I saw it yesterday when I was reading the Moon Book, but I wasn't sure if it was this login. I saw it. Oh.
+
+261
+00:39:40.570 --> 00:40:08.389
+Lion Prado: You should have poured it out. Zk login. And people have a lot of debates about zk login. Now, yeah. So this is one of the popular and most new ways of onboarding web. 2 guys onto the web, 3 space just sign in with your Google account, Facebook Apple. And it will generate a wallet for you. Yeah. So zk, login is another way of doing that. Yeah, thanks, black man, black man, you shouldn't have answered next time, is. It's not black man.
+
+262
+00:40:09.140 --> 00:40:12.349
+Lion Prado: I think it's black man, or it's not black man.
+
+263
+00:40:13.260 --> 00:40:16.220
+Lion Prado: We have 2 black people over here.
+
+264
+00:40:16.220 --> 00:40:18.964
+Blacdav: No, it wasn't me. This one was blacked out.
+
+265
+00:40:19.920 --> 00:40:29.279
+Lion Prado: Okay, okay, yeah. So I created a a function.
+
+266
+00:40:30.780 --> 00:40:33.880
+Lion Prado: So we are going to write some basic code.
+
+267
+00:40:58.290 --> 00:41:00.500
+Lion Prado: So I'm going to write a function with nothing
+
+268
+00:41:03.940 --> 00:41:16.679
+Lion Prado: basic function, example which which it's no parameter and no retains.
+
+269
+00:41:30.060 --> 00:41:34.060
+Lion Prado: What what do you think is causing is causing the error here. Let's start fixing errors
+
+270
+00:41:40.760 --> 00:41:45.560
+Lion Prado: in that package is not. It's not imported or something. Yeah, actually, yeah, good.
+
+271
+00:41:46.810 --> 00:41:48.969
+Lion Prado: Not not ready to use it yet.
+
+272
+00:41:49.100 --> 00:41:51.230
+Lion Prado: So let me let me take it off.
+
+273
+00:41:53.970 --> 00:41:56.470
+Lion Prado: So that's our one.
+
+274
+00:42:01.890 --> 00:42:05.970
+Lion Prado: and you are going to 2, sure.
+
+275
+00:42:08.430 --> 00:42:13.870
+Lion Prado: And the 2 is we are going to write a function with a parameter, but
+
+276
+00:42:14.170 --> 00:42:16.880
+Lion Prado: there will be no return for rates.
+
+277
+00:42:18.610 --> 00:42:28.259
+Lion Prado: meaning everything, is going to be implicit, nothing like everything. So I want you to guide me to write a parameter that takes 2 argument which are
+
+278
+00:42:28.864 --> 00:42:41.560
+Lion Prado: integers unsigned integers, and it will it will the function type annotation is going to be an unsigned integer, and the implicit return is just going to be the addition of it. So.
+
+279
+00:42:41.720 --> 00:42:42.800
+Lion Prado: hey, good!
+
+280
+00:42:44.680 --> 00:42:52.670
+Lion Prado: So function with parameters. So I'm just doing this. So if I post it to to the this one
+
+281
+00:42:53.460 --> 00:43:02.320
+Lion Prado: get up and you are going through. You get to see you get to see what you are doing. So I say, we want an an addition function. So anyone who can help us.
+
+282
+00:43:02.470 --> 00:43:08.529
+Lion Prado: So fun. Then I what was the next thing? So there is a
+
+283
+00:43:08.690 --> 00:43:15.479
+Lion Prado: modifier, which of the function is public, and this was still the compliance. So the next is the name of the function. So which is at
+
+284
+00:43:16.980 --> 00:43:20.700
+Lion Prado: and add, is going to take 2 para parameters.
+
+285
+00:43:24.120 --> 00:43:24.895
+Lion Prado: So
+
+286
+00:43:28.820 --> 00:43:29.380
+Benefit girl: Yeah, be.
+
+287
+00:43:30.610 --> 00:43:31.989
+Lion Prado: Are you asking the question.
+
+288
+00:43:32.900 --> 00:43:35.760
+Benefit girl: So I'll just say A and B.
+
+289
+00:43:36.140 --> 00:43:36.490
+Lion Prado: Yeah.
+
+290
+00:43:36.490 --> 00:43:37.260
+Benefit girl: I am.
+
+291
+00:43:37.450 --> 00:43:38.599
+Lion Prado: Yeah, A and B,
+
+292
+00:43:45.510 --> 00:43:52.510
+Lion Prado: so and we can't even build this to see if we are on progress, or there's an error.
+
+293
+00:43:52.710 --> 00:43:53.580
+Lion Prado: So
+
+294
+00:44:01.130 --> 00:44:08.930
+Lion Prado: so anytime you are building a package. Make sure you are that particular package.
+
+295
+00:44:11.260 --> 00:44:11.860
+Benefit girl: No.
+
+296
+00:44:15.900 --> 00:44:26.789
+Lion Prado: So there's there's no rule violation for us. We can continue to the 3rd one. And I want us to do function with multiple return values.
+
+297
+00:44:27.380 --> 00:44:35.729
+Lion Prado: It's going to have multiple return values. And we are going to use Tuples. If you know Tuples, you hope you understand Tuples.
+
+298
+00:44:37.450 --> 00:44:38.740
+Benefit girl: Yeah.
+
+299
+00:44:40.040 --> 00:44:40.650
+Lion Prado: Okay.
+
+300
+00:44:40.650 --> 00:44:42.940
+Benefit girl: You can bye.
+
+301
+00:44:43.610 --> 00:44:44.280
+Lion Prado: Functions.
+
+302
+00:44:44.990 --> 00:44:45.569
+Benefit girl: 3,
+
+303
+00:45:07.820 --> 00:45:08.480
+Benefit girl: yeah.
+
+304
+00:45:13.070 --> 00:45:16.710
+Lion Prado: Because I'm going to use Topo. We all know Topos are in brackets right.
+
+305
+00:45:17.790 --> 00:45:18.710
+Benefit girl: Yeah, so.
+
+306
+00:45:21.350 --> 00:45:23.109
+Lion Prado: You by force to accept.
+
+307
+00:45:31.450 --> 00:45:34.140
+Lion Prado: I don't want to accept. Just go your way.
+
+308
+00:45:34.900 --> 00:45:36.780
+Flashman: Prices. Keep it to go away.
+
+309
+00:45:36.900 --> 00:45:39.300
+Lion Prado: Sk, okay, thank you.
+
+310
+00:45:42.340 --> 00:45:48.920
+Lion Prado: Yes. So I want multiple returns. So like 2 and cool.
+
+311
+00:45:50.050 --> 00:45:51.150
+Lion Prado: What do I think?
+
+312
+00:45:53.290 --> 00:45:55.510
+Lion Prado: U, 6, 4,
+
+313
+00:46:01.620 --> 00:46:03.649
+Lion Prado: another UU 6 for
+
+314
+00:46:20.170 --> 00:46:31.809
+Lion Prado: so this function we just have A and B, and this A and B is like, I'm coming to a consulate, A and B, that when I pass to just 2 numbers.
+
+315
+00:46:35.250 --> 00:46:38.600
+Lion Prado: When I pass Js to numbers, it's going to add
+
+316
+00:46:38.820 --> 00:46:45.773
+Lion Prado: he's going to add a number. He's going to subtract the number. You're going to divide the number, and he's going to
+
+317
+00:46:47.220 --> 00:46:52.299
+Lion Prado: multiply the number. Yes. So that's what I'm about about to do.
+
+318
+00:46:55.100 --> 00:47:02.940
+Lion Prado: So I want to someone to to our limit calculator.
+
+319
+00:47:03.540 --> 00:47:06.019
+Lion Prado: So more, more like a mini calculator.
+
+320
+00:47:11.000 --> 00:47:11.790
+Godfred Addai Amoako: File.
+
+321
+00:47:12.330 --> 00:47:13.940
+Godfred Addai Amoako: I told you I've never done.
+
+322
+00:47:14.600 --> 00:47:18.119
+Godfred Addai Amoako: We'll go from Moscow, Russia, Port Moscow, unholy.
+
+323
+00:47:20.650 --> 00:47:25.430
+Lion Prado: So what do you think is this error anyone to help you back?
+
+324
+00:47:25.640 --> 00:47:30.769
+Lion Prado: I've spotted it, but I want someone. If if you are paying close attention to what?
+
+325
+00:47:30.880 --> 00:47:32.389
+Lion Prado: What do you think is the error.
+
+326
+00:47:34.040 --> 00:47:36.370
+LAWRENCE APPIAH-NUAMAH: No clue closing brackets or something.
+
+327
+00:47:36.680 --> 00:47:38.860
+Lion Prado: Yeah, exactly.
+
+328
+00:47:43.700 --> 00:47:45.519
+Lion Prado: So now we need to pass
+
+329
+00:47:46.470 --> 00:47:50.540
+Lion Prado: so even to for it to be easy, for you see we have, and
+
+330
+00:47:50.710 --> 00:48:00.040
+Lion Prado: the main bracket which takes all the which bundles all the that particular class. You see, it's highlighted with yellow.
+
+331
+00:48:00.850 --> 00:48:02.610
+Lion Prado: yellow, yellow.
+
+332
+00:48:02.770 --> 00:48:10.800
+Lion Prado: and this blog is having the purple color. This blog is having a purple color. This blog is also having a purple color.
+
+333
+00:48:10.970 --> 00:48:16.420
+Lion Prado: So now we need to pass. The next error is, it's expecting
+
+334
+00:48:16.690 --> 00:48:33.020
+Lion Prado: some values. We are not providing the values. So that's the reason why it is error rate. So let me say, even, yeah, you run. You make this code, and probably you don't want to pass anything to it, and you just leave it like that. And you try building your code. You're going to get errors
+
+335
+00:48:33.130 --> 00:48:41.710
+Lion Prado: as it is telling us via expected so meaning it's expecting, expecting some kind of returns. But it's not, it's not getting it.
+
+336
+00:48:42.750 --> 00:48:49.140
+Lion Prado: And it's also this, a warning on use, meaning, we've declared some variables that we are not using.
+
+337
+00:48:49.330 --> 00:49:00.840
+Lion Prado: So this is what is telling unused parameter. Consider removing or prefacing it with an underscore. So you move when you declare a variable and probably later some part in your code. You're not using it yet.
+
+338
+00:49:01.160 --> 00:49:03.859
+Lion Prado: You can just add an underscore
+
+339
+00:49:04.890 --> 00:49:10.150
+Lion Prado: in front of that particular value, and that that warning is going to go.
+
+340
+00:49:10.360 --> 00:49:19.159
+Lion Prado: Yeah, but warning, it is not a warning. This a parameter warning can be taken care of, but errors need to be fixed. Yeah.
+
+341
+00:49:24.610 --> 00:49:25.670
+Godfred Addai Amoako: Yeah. Lion.
+
+342
+00:49:25.670 --> 00:49:26.390
+Lion Prado: Yeah.
+
+343
+00:49:27.300 --> 00:49:34.179
+Godfred Addai Amoako: Please. I wanted to ask a since when you put under call in front of it right, it becomes like unused.
+
+344
+00:49:34.280 --> 00:49:38.369
+Godfred Addai Amoako: So that means that we should avoid naming variables with underscore.
+
+345
+00:49:39.520 --> 00:49:40.050
+Lion Prado: Yay!
+
+346
+00:49:40.050 --> 00:49:41.500
+Godfred Addai Amoako: It's a device being used.
+
+347
+00:49:41.760 --> 00:50:06.489
+Lion Prado: Yeah, no, you can use it. But let me say you are writing a bulky code, and within some particular function, and there's an option for it, and probably when you are running something because it's optional, you are not calling that particular value. You get it, and your code will run all right, but it will just throw a warning to you that it's not using. You are not using it so normally, we use this. You can also add this.
+
+348
+00:50:06.600 --> 00:50:07.620
+Lion Prado: do you see?
+
+349
+00:50:07.750 --> 00:50:22.529
+Lion Prado: It helps you, and it's a warning. It's not like an error. It's just trying to tell you that, or in some some way, some kind of way to just trying to maybe remind you that it's compiler is trying to feel like. Probably you declared, and you've forgotten to use. But you know what I'm trying to say.
+
+350
+00:50:23.200 --> 00:50:23.660
+Godfred Addai Amoako: Oh, okay.
+
+351
+00:50:23.660 --> 00:50:30.220
+Lion Prado: So it's just trying to remind you that. Oh, you've done this, and you've not used it. So just go and make use of it. Yeah, sometimes it
+
+352
+00:50:30.350 --> 00:50:37.829
+Lion Prado: sometimes it's true that probably. Oh, you forgot to use it, but sometimes you intentionally didn't use it. So you can just add another underscore in front of it.
+
+353
+00:50:38.090 --> 00:50:43.339
+Lion Prado: or you can just copy this thing that they will give it to you allowed.
+
+354
+00:50:43.680 --> 00:50:47.300
+Lion Prado: Allow unused, variable. Then you paste it at the top over here.
+
+355
+00:50:48.020 --> 00:50:51.259
+Lion Prado: and that was also going to take care of the error. You see, the arrow is gone.
+
+356
+00:50:52.870 --> 00:50:53.380
+Godfred Addai Amoako: Oh!
+
+357
+00:50:53.380 --> 00:50:56.099
+Lion Prado: That's also going to take care of it. You're welcome.
+
+358
+00:51:00.880 --> 00:51:04.629
+Lion Prado: So now what we need to do is because we did a topple.
+
+359
+00:51:04.800 --> 00:51:07.050
+Lion Prado: You are also going to retain a topple.
+
+360
+00:51:12.820 --> 00:51:14.860
+Lion Prado: You're also going to retain a Topo.
+
+361
+00:51:44.120 --> 00:51:46.009
+Lion Prado: What do you think the error is.
+
+362
+00:51:48.941 --> 00:51:53.770
+LAWRENCE APPIAH-NUAMAH: The opening braces will be this one, is it? Instead of a bracket?
+
+363
+00:51:53.770 --> 00:51:58.399
+Lion Prado: Okay, they're they're closing. It has been commented out. I guess.
+
+364
+00:51:58.400 --> 00:52:01.849
+LAWRENCE APPIAH-NUAMAH: No, the the one I think the one way to. Is it okay?
+
+365
+00:52:01.850 --> 00:52:07.060
+Lion Prado: Yeah, yeah, actually, the closing breeze was commented. You see, it was over here.
+
+366
+00:52:07.330 --> 00:52:09.729
+Godfred Addai Amoako: Yeah, the questions.
+
+367
+00:52:11.790 --> 00:52:19.329
+Lion Prado: And also I never made mention of comments. Can anyone explain comments to their class? Anyone is familiar. Just explain comments to their class.
+
+368
+00:52:21.650 --> 00:52:33.130
+Godfred Addai Amoako: Okay, I think comments are, how do you call it? Messages that we add to our code to clarify our code? And it helps other developers, or probably ourselves, to understand what we are doing.
+
+369
+00:52:33.280 --> 00:52:41.459
+Godfred Addai Amoako: So it organizes our work, and then it doesn't get compiled or doesn't get had runtime in the code, it just
+
+370
+00:52:41.660 --> 00:52:46.820
+Godfred Addai Amoako: and comments that we add to our quote, sorry for using the word again.
+
+371
+00:52:47.390 --> 00:52:47.915
+Benefit girl: Yeah.
+
+372
+00:52:48.440 --> 00:53:06.229
+Lion Prado: Hope you understand it. So just like this that I'm seeing if this thing doesn't run, the compiler doesn't run it. It skips this line. So this is just like he was saying, help another developers, or even you, you yourself, you can write the code. You come back one month later. You've forgotten how you went about that logic.
+
+373
+00:53:06.440 --> 00:53:08.490
+Lion Prado: So sometimes it's good to just
+
+374
+00:53:08.650 --> 00:53:11.930
+Lion Prado: add comments to it. And I saw it. It's Tweet
+
+375
+00:53:12.110 --> 00:53:14.900
+Lion Prado: from one of the Google deaf. And he was like
+
+376
+00:53:15.080 --> 00:53:22.389
+Lion Prado: a developer who had comments to his document, his code world. Which comment is like a love letter to the next developer.
+
+377
+00:53:24.630 --> 00:53:28.550
+Lion Prado: Yeah, so comment are like, love letters to your next developer.
+
+378
+00:53:29.910 --> 00:53:40.400
+Lion Prado: So when that developer comes to your code, they understand whatever you are doing, or else if you write your code without any comment. People will just open your code and reading codes without comment is very some way.
+
+379
+00:53:40.490 --> 00:54:01.510
+Lion Prado: You have to take a lot of time to understand it, because you have to be reading the code line by line to understand. But if there was a comment like you open this code. You don't need to read everything to understand. And when you open this code, you see, function with multiple parameters and retain value. Okay, you understand what this function is. But imagine you open this code, and there's nothing here. There's nothing here, there's nothing. All you're seeing is just the code
+
+380
+00:54:01.540 --> 00:54:10.769
+Lion Prado: you have to take a bit of time to understand it. So basically, that's what a comment help us to do. And also sometimes it can help us to to debug our code.
+
+381
+00:54:13.510 --> 00:54:21.870
+Lion Prado: So this function is like a simple, a simple calculator, that when we input 2 value, let me check the questions.
+
+382
+00:54:29.670 --> 00:54:30.340
+Lion Prado: Okay.
+
+383
+00:54:36.614 --> 00:54:47.120
+Lion Prado: please. I'm I'm reviewing people's chat bot so, and review add unexpected booking
+
+384
+00:55:07.920 --> 00:55:10.289
+Lion Prado: to. Can you show us your line, one.
+
+385
+00:55:10.560 --> 00:55:14.729
+Lion Prado: and this for from DC Ablo, I want to see your line one.
+
+386
+00:55:18.080 --> 00:55:19.780
+Lion Prado: I would like to see your line one.
+
+387
+00:55:20.320 --> 00:55:26.840
+DC ABLORH: Okay, actually, I'm not using my PC, but I would do a video and then send it from.
+
+388
+00:55:27.900 --> 00:55:35.870
+Lion Prado: Okay. I think I wait, too, is because you've not created a package. And you're trying to run the code. Look at how I started my code
+
+389
+00:55:36.030 --> 00:55:40.999
+Lion Prado: have a model. So model is what bundles and and there
+
+390
+00:55:41.770 --> 00:56:00.170
+Lion Prado: how do we call it? The class? So I have the model, and I have the package name and the name of the model which is over here. And that's what bundles all the functions and the struct that we are going to write. So that's what you need to take care of when I just check your
+
+391
+00:56:00.450 --> 00:56:12.390
+Lion Prado: your line straight from your line, one. That's the reason why the error is telling you from line one meaning, you skip something. So it's like it's an environment you are creating. If if you are familiar with C, plus plus or
+
+392
+00:56:12.910 --> 00:56:19.489
+Lion Prado: Java. When you are writing code, you have to create some kind of environment like C, plus. But I think you have to work
+
+393
+00:56:19.620 --> 00:56:23.290
+Lion Prado: a studio. Oh, yeah, forgot. It's been a. It's been a while.
+
+394
+00:56:24.810 --> 00:56:42.770
+Lion Prado: Anyone. There's something you need to import at the top. C plus plus C. Java. Then you write your code within those curly brackets. So it's not like Python or Javascript. You can just start writing and you run into work. You have to bundle them within some block of code.
+
+395
+00:56:44.190 --> 00:56:47.429
+Godfred Addai Amoako: But you are right. It's studio studio.
+
+396
+00:56:47.430 --> 00:56:48.000
+Godfred Addai Amoako: Did you.
+
+397
+00:56:48.860 --> 00:56:50.669
+Lion Prado: Video do it? Yeah.
+
+398
+00:57:00.640 --> 00:57:17.160
+Lion Prado: So most of the functions that we've declared are a public function. So I want to declare a private function called private helper, and it's just going to take one value, and it's just going to multiply that value by by 2.
+
+399
+00:57:17.750 --> 00:57:19.899
+Lion Prado: So let let's do that.
+
+400
+00:57:42.610 --> 00:57:43.660
+Lion Prado: Oh, Shh
+
+401
+00:57:57.520 --> 00:58:02.790
+Lion Prado: so, and the name of the Hub function is a a private function and
+
+402
+00:58:12.460 --> 00:58:17.740
+Lion Prado: is a private function which is going to be only accessible within this.
+
+403
+00:58:46.070 --> 00:58:49.450
+Lion Prado: So anyone to help us create that function?
+
+404
+00:58:57.470 --> 00:59:03.210
+Lion Prado: What? What? What? What do I start with? What keyword do I start with anyone? Anyone?
+
+405
+00:59:04.240 --> 00:59:12.060
+Lion Prado: You've created the right functions. And I say, all these are public functions when I want to create a private one. So what keyword do I start with.
+
+406
+00:59:13.280 --> 00:59:13.920
+DC ABLORH: Right.
+
+407
+00:59:14.790 --> 00:59:16.520
+LAWRENCE APPIAH-NUAMAH: Yeah, as greeted. It's fun.
+
+408
+00:59:17.750 --> 00:59:22.470
+Lion Prado: Okay, fun privates.
+
+409
+00:59:24.320 --> 00:59:32.100
+Lion Prado: It's not necessary for you to name the name of the function private. I'm just doing it because of for learning sake. It's not
+
+410
+00:59:32.320 --> 00:59:36.960
+Lion Prado: composure. Anytime. You are creating a private function. You add private to it.
+
+411
+00:59:38.220 --> 00:59:41.380
+Benefit girl: Okay, so we can see how private you need for move.
+
+412
+00:59:42.310 --> 00:59:42.850
+Lion Prado: Pardon.
+
+413
+00:59:42.850 --> 00:59:46.389
+Benefit girl: Bye, we can see how privately, if you would like
+
+414
+00:59:46.620 --> 00:59:52.990
+Benefit girl: add privacy, maybe like to show that it's private function, and it's not going to generate any error right?
+
+415
+00:59:53.790 --> 00:59:55.699
+Lion Prado: I don't get your question. Well.
+
+416
+00:59:58.310 --> 01:00:07.079
+Blcvk_man: She's trying to see in case like she wants to use the private in the code is she allowed to use it? And it's not going to flag any error.
+
+417
+01:00:11.980 --> 01:00:15.129
+Lion Prado: I think it's even flagging an error. Let's learn from it.
+
+418
+01:00:21.510 --> 01:00:28.936
+Lion Prado: Okay, they said. I've I've never called the private function. So like I was saying, private function are supposed to be
+
+419
+01:00:30.300 --> 01:00:37.059
+Lion Prado: within, within our code, like this particular model meaning like, if I create a new
+
+420
+01:00:44.450 --> 01:00:47.630
+Lion Prado: function, dots move.
+
+421
+01:00:51.360 --> 01:00:56.278
+Lion Prado: I can call all my other functions in this particular
+
+422
+01:00:57.080 --> 01:01:05.800
+Lion Prado: environment. But I cannot call this private function over there. I can only call this private function just within here.
+
+423
+01:01:06.150 --> 01:01:11.070
+Lion Prado: So let me see. You see this calculator that we have over here.
+
+424
+01:01:11.190 --> 01:01:13.629
+Lion Prado: I can call private Helper.
+
+425
+01:01:14.050 --> 01:01:17.749
+Lion Prado: So private helper is having just one value right here.
+
+426
+01:01:18.970 --> 01:01:24.400
+Lion Prado: So let me make it 2 with this value one.
+
+427
+01:01:25.260 --> 01:01:32.220
+Lion Prado: Then I want us to make use of it, then value 2.
+
+428
+01:01:34.930 --> 01:01:39.990
+Lion Prado: It's also U, 6, 4 U, 6, 4.
+
+429
+01:01:50.440 --> 01:01:52.150
+Lion Prado: So value one
+
+430
+01:01:55.280 --> 01:01:56.940
+Lion Prado: times value 2.
+
+431
+01:01:57.990 --> 01:02:02.960
+Lion Prado: So I'm going to call it over here is because this taking too far, and so let me.
+
+432
+01:02:04.560 --> 01:02:05.030
+Lion Prado: we'll see.
+
+433
+01:02:05.030 --> 01:02:11.360
+Lion Prado: Retain another U. 6, 4. Let me see.
+
+434
+01:02:12.360 --> 01:02:13.989
+Lion Prado: U. 64.
+
+435
+01:02:15.660 --> 01:02:18.479
+Lion Prado: And you see it's less meaning. You see.
+
+436
+01:02:18.650 --> 01:02:23.590
+Lion Prado: I've given expression of length 4. But it's expecting 5.
+
+437
+01:02:23.980 --> 01:02:29.229
+Lion Prado: So the 5 I want to. I don't know if it will work, but I'm just trying it. I want to call the
+
+438
+01:02:30.230 --> 01:02:34.680
+Lion Prado: private Elpa, us.
+
+439
+01:02:37.240 --> 01:02:39.690
+Lion Prado: I don't think it will work inside a tuple.
+
+440
+01:02:49.260 --> 01:02:51.160
+Lion Prado: Let's try calling it here.
+
+441
+01:03:12.200 --> 01:03:15.170
+Lion Prado: You see, it is working now, right?
+
+442
+01:03:18.500 --> 01:03:23.119
+Lion Prado: Hope you you see that it's working. And now the warning is gone. Right.
+
+443
+01:03:24.090 --> 01:03:24.860
+Benefit girl: Okay.
+
+444
+01:03:25.510 --> 01:03:26.220
+Lion Prado: Right.
+
+445
+01:03:27.810 --> 01:03:28.450
+Benefit girl: Yep.
+
+446
+01:03:28.620 --> 01:03:30.959
+Lion Prado: Am I audible? Hope I'm audible.
+
+447
+01:03:31.850 --> 01:03:32.550
+Benefit girl: Yeah, sure.
+
+448
+01:03:32.550 --> 01:03:33.290
+TIM AKRONG: Yeah.
+
+449
+01:03:33.400 --> 01:03:34.090
+Benefit girl: Yeah.
+
+450
+01:03:34.090 --> 01:03:34.600
+Lion Prado: So, if.
+
+451
+01:03:34.600 --> 01:03:35.320
+Sui Ghana: How are you?
+
+452
+01:03:35.320 --> 01:03:56.950
+Lion Prado: Yeah. So if I called, I call this code, if I call this code initially, it was returning A plus B. But if I call this function. This function is also going to call this function. It's also going to call this function. And it's going to pass the values over here to this function, and this function is going to multiply that value which is
+
+453
+01:03:57.430 --> 01:04:02.760
+Lion Prado: value, which is the values here. It's going to multiply it within here. And
+
+454
+01:04:02.940 --> 01:04:09.270
+Lion Prado: and that's what is going to retain it over here. So I can assign this to a variable. And I'll retain that variable.
+
+455
+01:04:11.470 --> 01:04:14.799
+Lion Prado: Yeah. So that's how private function works.
+
+456
+01:04:19.596 --> 01:04:24.070
+Benefit girl: Sorry, not too quickly.
+
+457
+01:04:24.910 --> 01:04:26.490
+Lion Prado: But you said I should go by again.
+
+458
+01:04:27.136 --> 01:04:38.649
+Benefit girl: I want to ask a question. I don't really know if it's if it's kind of cool. But you know we already declared the variable. A U, 64.
+
+459
+01:04:38.820 --> 01:04:50.700
+Benefit girl: We are that uses the 4 is showing that okay, it is an unassigned integer. Can we assign? Maybe let's say, a having a value, maybe 5
+
+460
+01:04:50.840 --> 01:05:03.039
+Benefit girl: and be having a value, maybe 6, like to show addition and maybe run the code to see the output, to like stress like grab it more since it's like a calculator. So I put that, can we do something like that so we can have
+
+461
+01:05:03.470 --> 01:05:07.330
+Benefit girl: like more understanding on it to get.
+
+462
+01:05:07.750 --> 01:05:25.489
+Benefit girl: I don't know if it's possible. Like, if you if you want to assign a value to the A. U. 64, maybe I want to assign 5 to the A, then 6 to the B, like something like that. And to give us output to show that. Okay, this is how this thing is really running
+
+463
+01:05:25.490 --> 01:05:26.359
+Benefit girl: this school right?
+
+464
+01:05:26.360 --> 01:05:29.390
+Benefit girl: We should do it quick. Practical! Yes, we should do it.
+
+465
+01:05:29.995 --> 01:05:30.600
+Lion Prado: Right.
+
+466
+01:05:30.600 --> 01:05:32.959
+Benefit girl: Yes, if you can see what we are doing. Yes.
+
+467
+01:05:32.960 --> 01:05:34.300
+Lion Prado: Yeah, yeah, yeah, yeah.
+
+468
+01:05:34.910 --> 01:05:37.950
+Lion Prado: But I made mention that.
+
+469
+01:05:40.220 --> 01:05:43.260
+Lion Prado: Okay, let's just do it if you're asking.
+
+470
+01:05:43.870 --> 01:05:47.400
+Lion Prado: But it, this is meaning we have to write tests
+
+471
+01:05:48.090 --> 01:05:50.079
+Lion Prado: with what you're asking. You have to write tests.
+
+472
+01:05:52.675 --> 01:05:53.340
+Benefit girl: Okay.
+
+473
+01:05:54.640 --> 01:05:55.270
+Benefit girl: Well, if.
+
+474
+01:05:55.270 --> 01:05:55.820
+Lion Prado: Yes.
+
+475
+01:05:55.950 --> 01:05:59.990
+Benefit girl: Okay, if it's what we can do like by ourself.
+
+476
+01:06:00.090 --> 01:06:03.900
+Benefit girl: maybe we just can try, so we won't take much time. I'm just.
+
+477
+01:06:04.550 --> 01:06:07.570
+Lion Prado: Yeah, I want to do for that particular one for Atc.
+
+478
+01:06:08.455 --> 01:06:09.939
+David Ahorlu: Okay. Thank you.
+
+479
+01:06:20.340 --> 01:06:24.659
+Lion Prado: Someone is writing on the screen. Please, can can you clean what you did?
+
+480
+01:06:30.710 --> 01:06:31.390
+Lion Prado: Oh, yeah.
+
+481
+01:06:33.470 --> 01:06:34.270
+David Ahorlu: Oh, my! Gosh!
+
+482
+01:06:36.130 --> 01:06:40.749
+Sui Ghana: But how is that possible? I thought, Brian, I thought you wrote it yourself.
+
+483
+01:06:41.590 --> 01:06:44.310
+Lion Prado: Really I didn't. I've not activated it.
+
+484
+01:06:48.625 --> 01:06:49.150
+Sui Ghana: Okay.
+
+485
+01:06:49.830 --> 01:06:53.250
+Sui Ghana: I don't know who was writing there.
+
+486
+01:06:53.250 --> 01:06:55.699
+Lion Prado: Let me let me clean to see if it's going to clean.
+
+487
+01:06:56.812 --> 01:07:00.030
+Lion Prado: I'm not able to clean it, meaning I didn't write it.
+
+488
+01:07:02.060 --> 01:07:03.519
+Sui Ghana: Okay, I'm clearing it.
+
+489
+01:07:06.630 --> 01:07:07.470
+Sui Ghana: hey?
+
+490
+01:07:08.800 --> 01:07:11.669
+Sui Ghana: Clearing? And I'm writing another one. Sorry
+
+491
+01:07:28.270 --> 01:07:30.910
+Sui Ghana: weren't able to clean it. I don't know who.
+
+492
+01:07:31.110 --> 01:07:33.340
+Lion Prado: Yeah, unless the person who wrote it.
+
+493
+01:07:35.960 --> 01:07:37.560
+Sui Ghana: I don't really.
+
+494
+01:07:38.205 --> 01:07:38.850
+LAWRENCE APPIAH-NUAMAH: David.
+
+495
+01:07:39.670 --> 01:07:40.740
+Sui Ghana: Privilege.
+
+496
+01:07:41.850 --> 01:07:47.049
+Sui Ghana: David, David, please come and clean our whiteboard for us.
+
+497
+01:07:48.741 --> 01:07:50.450
+Nhyiraba : Is it? Is it me?
+
+498
+01:07:52.460 --> 01:07:54.270
+Sui Ghana: No, it's rather not. You guys are not.
+
+499
+01:07:56.270 --> 01:07:57.169
+Nhyiraba : Oh! Gee!
+
+500
+01:07:57.170 --> 01:07:58.750
+Sui Ghana: david.com.
+
+501
+01:08:09.492 --> 01:08:11.070
+Lion Prado: You go on with that test.
+
+502
+01:08:11.920 --> 01:08:13.500
+Lion Prado: You want us to write tests
+
+503
+01:08:14.270 --> 01:08:16.719
+Lion Prado: this, how a test a test looks like.
+
+504
+01:08:17.200 --> 01:08:22.600
+Lion Prado: So I'm just going to write a test, import this debug.
+
+505
+01:08:22.979 --> 01:08:28.749
+Lion Prado: and we are going to call that function. Then we pass values to it. So let's go back.
+
+506
+01:08:30.210 --> 01:08:32.609
+Lion Prado: I wanted us to do tests tomorrow.
+
+507
+01:08:33.840 --> 01:08:35.720
+Lion Prado: There's an error in this code.
+
+508
+01:08:53.740 --> 01:08:54.580
+David Ahorlu: Okay.
+
+509
+01:09:26.450 --> 01:09:30.740
+Lion Prado: So this test field help me, debug that test.
+
+510
+01:09:33.569 --> 01:09:43.220
+Lion Prado: 6 0 Tc quality 15. This was not so. They supported with one my shit test at
+
+511
+01:09:46.250 --> 01:09:54.617
+Lion Prado: okay is because in add, we are using a private let me see, a private
+
+512
+01:09:55.860 --> 01:09:59.140
+Lion Prado: we are calling this private Elpa.
+
+513
+01:10:01.460 --> 01:10:03.530
+David Ahorlu: And that thing retains.
+
+514
+01:10:03.960 --> 01:10:11.430
+Lion Prado: The multiplication of these of these numbers. So and in the you see in this test.
+
+515
+01:10:12.370 --> 01:10:16.579
+Lion Prado: ours 5, 5 times 10 is 50. Right?
+
+516
+01:10:16.830 --> 01:10:19.310
+Lion Prado: So it's supposed to return 50 over a year.
+
+517
+01:10:21.850 --> 01:10:25.020
+Lion Prado: So now the test she didn't feel.
+
+518
+01:10:28.890 --> 01:10:38.570
+Lion Prado: And so all the tests passed now. So now let's try printing it. So are you okay?
+
+519
+01:10:41.220 --> 01:10:42.790
+Godfred Addai Amoako: Yeah, I'm good.
+
+520
+01:10:43.630 --> 01:10:50.920
+Godfred Addai Amoako: But my my question is, I didn't see with the for the private sofa.
+
+521
+01:10:51.390 --> 01:10:55.870
+Godfred Addai Amoako: You declared. It's like way later in the application, right.
+
+522
+01:10:55.870 --> 01:10:56.390
+Lion Prado: Yeah.
+
+523
+01:10:56.390 --> 01:11:05.759
+Godfred Addai Amoako: And yesterday we're talking about the code compiling line by line in advance. But here you declare, it lay like later in the later in the file.
+
+524
+01:11:05.930 --> 01:11:14.060
+Godfred Addai Amoako: but you have to be able to call it in a function that has already been declared like a function will be called before this function will be called
+
+525
+01:11:14.430 --> 01:11:16.530
+Godfred Addai Amoako: so. How how did that run.
+
+526
+01:11:17.610 --> 01:11:19.809
+Lion Prado: Oh, okay, that that's a good question.
+
+527
+01:11:20.070 --> 01:11:22.620
+Lion Prado: Yeah. So that's how it it runs.
+
+528
+01:11:22.720 --> 01:11:28.930
+Lion Prado: So it's still, it's still compiles it like line by line, but it runs very. It's very fast.
+
+529
+01:11:29.080 --> 01:11:35.160
+Lion Prado: so when it it will call this private, it it will run to over here, calculator.
+
+530
+01:11:35.900 --> 01:12:00.349
+Lion Prado: where it will run to add, and you see that add is calling a private helper, so it will run everything fast to this line. Just run this line, and it is going to pass this value when it gets here, it's going to keep this value, and wherever it sees helper to pass it, so it will keep running, and when it get over and it sees help, it will pass that value over here to helper, and it will return it. Do you get what I'm trying to say.
+
+531
+01:12:01.270 --> 01:12:03.250
+Godfred Addai Amoako: Okay, okay, I get.
+
+532
+01:12:03.460 --> 01:12:09.389
+Godfred Addai Amoako: that means that it's it's it's recalls the function and checked. Whether the function has been declared very fastly.
+
+533
+01:12:09.390 --> 01:12:09.910
+Lion Prado: Yeah.
+
+534
+01:12:09.910 --> 01:12:11.019
+Godfred Addai Amoako: Was back yesterday.
+
+535
+01:12:11.020 --> 01:12:15.900
+Lion Prado: Have not declared this function, and I'm calling it over there when the code reaches here.
+
+536
+01:12:16.678 --> 01:12:19.569
+Lion Prado: It will abort an error.
+
+537
+01:12:21.100 --> 01:12:22.770
+Godfred Addai Amoako: Okay. Okay.
+
+538
+01:12:23.580 --> 01:12:24.240
+Godfred Addai Amoako: Thank you.
+
+539
+01:12:24.760 --> 01:12:25.580
+Lion Prado: Oh, gosh!
+
+540
+01:12:26.400 --> 01:12:27.390
+Benefit girl: So.
+
+541
+01:12:42.180 --> 01:12:43.360
+Lion Prado: 14.
+
+542
+01:12:46.320 --> 01:12:47.040
+Lion Prado: Yeah.
+
+543
+01:12:49.030 --> 01:12:49.580
+Lion Prado: Good.
+
+544
+01:13:04.330 --> 01:13:06.230
+Lion Prado: All countries.
+
+545
+01:13:21.380 --> 01:13:26.410
+Lion Prado: I forgot. Is it? Std debug? Let me go and check. I've forgotten the import.
+
+546
+01:13:29.760 --> 01:13:31.530
+Lion Prado: Okay? Standard debug.
+
+547
+01:13:47.070 --> 01:13:49.150
+Lion Prado: Important message.
+
+548
+01:13:49.430 --> 01:13:54.170
+Lion Prado: So it is giving us this error because you're not making use of it.
+
+549
+01:13:54.890 --> 01:14:04.450
+Lion Prado: So in this test, this basic function, no, there's no output it just under, there's an output. So let's
+
+550
+01:14:05.620 --> 01:14:08.000
+Lion Prado: debug and print results.
+
+551
+01:14:13.100 --> 01:14:17.420
+Lion Prado: You are going to print this result, and you are supposed to get 50.
+
+552
+01:14:19.110 --> 01:14:21.610
+Lion Prado: And there is this test calculator.
+
+553
+01:14:25.640 --> 01:14:28.799
+Lion Prado: So I want us to just print this. Add this one.
+
+554
+01:14:29.820 --> 01:14:32.790
+Lion Prado: If you are writing tests, it becomes bulky.
+
+555
+01:14:35.070 --> 01:14:39.410
+Lion Prado: So I just want the 50 to print. Hope we can see the 50.
+
+556
+01:14:42.230 --> 01:14:43.110
+Benefit girl: Yes.
+
+557
+01:14:43.270 --> 01:14:43.800
+Nhyiraba : Yeah.
+
+558
+01:14:43.800 --> 01:14:46.200
+Lion Prado: So are you okay?
+
+559
+01:14:47.880 --> 01:15:03.180
+Benefit girl: Yes, I can. Yes, but tomorrow you said, you plan on talking on testimon. So by then we'll be able to like work more. And because when we are doing the practical aspect on our own, I want to see the result of what we are doing, to be sure. So that's why? I requested.
+
+560
+01:15:03.840 --> 01:15:04.580
+Benefit girl: Well, yes.
+
+561
+01:15:04.580 --> 01:15:04.960
+Lion Prado: For this.
+
+562
+01:15:04.960 --> 01:15:13.480
+Benefit girl: Yes, I get what you mean now, and you said you'd be taking us in a session on tomorrow like it's going to like knows more on it, and it's fine. Thank you so much.
+
+563
+01:15:14.480 --> 01:15:22.139
+Lion Prado: Okay. So, always make sure your test code are the last thing you run your taste good.
+
+564
+01:15:22.990 --> 01:15:29.089
+Lion Prado: But this wow over here is supposedly for writing your test over here.
+
+565
+01:15:30.270 --> 01:15:34.739
+Lion Prado: So you just have to import the model over here and you write the test.
+
+566
+01:15:38.630 --> 01:15:40.000
+Lion Prado: So I'm on.
+
+567
+01:15:40.290 --> 01:15:41.900
+Lion Prado: Let me move on to 5,
+
+568
+01:15:42.590 --> 01:15:45.179
+Lion Prado: I think. How? How should we edit here,
+
+569
+01:15:48.330 --> 01:15:52.910
+Lion Prado: Should I? Making use of an internal function?
+
+570
+01:15:54.510 --> 01:15:55.200
+Lion Prado: Okay.
+
+571
+01:15:55.430 --> 01:15:58.020
+Lion Prado: And this it is no more ad.
+
+572
+01:15:58.820 --> 01:16:01.160
+Lion Prado: Let me make the make it add
+
+573
+01:16:01.480 --> 01:16:03.760
+Lion Prado: so that it just becomes easy.
+
+574
+01:16:07.710 --> 01:16:11.260
+Lion Prado: Yeah. So it's just going to return the addition of the numbers.
+
+575
+01:16:11.370 --> 01:16:18.580
+Lion Prado: And even over here, this out, this, what shows how powerful test? The test is going to fail.
+
+576
+01:16:20.640 --> 01:16:25.489
+Lion Prado: And why do you think the test is failing? Looking at the test code. Why do you think the test is failing
+
+577
+01:16:36.620 --> 01:16:39.560
+Lion Prado: good things? Why? Why is the test failing.
+
+578
+01:16:41.480 --> 01:16:42.120
+David Ahorlu: Oh!
+
+579
+01:16:43.030 --> 01:16:49.120
+Lion Prado: Let me let me comment the asset out, run this test again.
+
+580
+01:16:52.430 --> 01:16:54.280
+Lion Prado: Probably the test will pass.
+
+581
+01:16:55.710 --> 01:16:57.210
+Lion Prado: Hope their test passed.
+
+582
+01:16:57.410 --> 01:17:00.790
+Lion Prado: So why do you think the test was failing? It's like I fixed the error
+
+583
+01:17:06.610 --> 01:17:08.760
+Lion Prado: so why, why do you think the test was failing.
+
+584
+01:17:14.630 --> 01:17:15.700
+David Ahorlu: Anyone.
+
+585
+01:17:18.130 --> 01:17:21.320
+David Ahorlu: Now the test is going to fail again. Why do you think the test is failing?
+
+586
+01:17:31.660 --> 01:17:33.680
+Lion Prado: Oh, anyone, anyone, anyone?
+
+587
+01:17:34.670 --> 01:17:36.830
+Lion Prado: Okay, let me check the chat box.
+
+588
+01:17:46.310 --> 01:17:49.100
+Lion Prado: Someone said, you cannot skip a class
+
+589
+01:17:54.120 --> 01:18:08.909
+Lion Prado: exactly. Result is equal to 50. So you see, over here we are. Seeing result is equal to 50. But actually, result is an addition, and result is giving us 15. So because result is not equal to 50. Our code is going to fail.
+
+590
+01:18:09.140 --> 01:18:15.979
+Lion Prado: So like I said, the asset over here means an if else. So if result is equal to 50
+
+591
+01:18:16.600 --> 01:18:30.980
+Lion Prado: go on, else abort with this arrow. So that's the reason why it is pointing this arrow, 0 x. 0 1 over here, and it is highlighting that it is this particular line which is making a test full. So which starts such test.
+
+592
+01:18:31.340 --> 01:18:35.700
+Lion Prado: I think we have a way of doing it expected to fail.
+
+593
+01:18:40.510 --> 01:18:43.710
+Lion Prado: that to pots!
+
+594
+01:18:45.080 --> 01:18:48.269
+Lion Prado: Something like that, something like that, something like that, something like that.
+
+595
+01:18:54.670 --> 01:18:59.149
+Lion Prado: So I want to show you how powerful functions are expected to abort.
+
+596
+01:19:06.890 --> 01:19:12.369
+Lion Prado: I've forgotten for it. I'm searching for how? Okay?
+
+597
+01:19:14.040 --> 01:19:15.610
+Lion Prado: Let me add the ash.
+
+598
+01:19:17.906 --> 01:19:19.200
+Lion Prado: To reach.
+
+599
+01:19:19.930 --> 01:19:23.940
+Lion Prado: Okay, I think I'll just suppose add a hashtag to it.
+
+600
+01:19:30.590 --> 01:19:32.939
+Lion Prado: You see, all, all my tests passed now.
+
+601
+01:19:37.680 --> 01:19:38.490
+Lion Prado: right?
+
+602
+01:19:44.950 --> 01:19:46.700
+Lion Prado: Did you understand what I just did?
+
+603
+01:19:49.730 --> 01:19:57.500
+LAWRENCE APPIAH-NUAMAH: So are you trying to say that the expected problem is like, you know, there will be a problem. But you are running it all.
+
+604
+01:19:57.600 --> 01:20:04.229
+Lion Prado: Yes. So let me see. So based on this. Let me let me show you something.
+
+605
+01:20:04.230 --> 01:20:06.209
+David Ahorlu: Let me let me say something.
+
+606
+01:20:08.820 --> 01:20:09.480
+David Ahorlu: Okay.
+
+607
+01:20:40.080 --> 01:20:40.960
+Lion Prado: Board here.
+
+608
+01:20:44.680 --> 01:20:47.259
+Lion Prado: Hope you can see this particular screen.
+
+609
+01:20:51.230 --> 01:20:51.820
+DC ABLORH: Yeah.
+
+610
+01:20:51.820 --> 01:20:53.460
+Lion Prado: So I'm in the test.
+
+611
+01:20:54.420 --> 01:20:59.720
+Lion Prado: So look at, look at this. This is we are creating a proposal
+
+612
+01:20:59.880 --> 01:21:05.170
+Lion Prado: and an admin cap. Anyone who has the admin capability nft is the one allowed.
+
+613
+01:21:05.810 --> 01:21:09.510
+Lion Prado: So this how this test is working, and also
+
+614
+01:21:09.910 --> 01:21:22.319
+Lion Prado: we are going to do it again. We want to make sure that if someone is not having that nft, that person cannot create a cannot create a proposal. So you see, expected failure
+
+615
+01:21:22.930 --> 01:21:23.790
+Lion Prado: right?
+
+616
+01:21:24.040 --> 01:21:25.519
+Lion Prado: And in this test.
+
+617
+01:21:26.050 --> 01:21:31.490
+Lion Prado: So look how this test begins with. So it takes this part, and this is the admin cap.
+
+618
+01:21:31.880 --> 01:21:36.080
+Lion Prado: so it borrows it. And like a text, as some writing test.
+
+619
+01:21:36.250 --> 01:21:39.200
+Lion Prado: They sometimes see me difficult than the code that you are writing.
+
+620
+01:21:39.520 --> 01:21:46.660
+Lion Prado: So you have, you create is, we are just assuming a scenario. So this is a scenario. And this is the user. And this is the user's address.
+
+621
+01:21:47.000 --> 01:22:05.289
+Lion Prado: And we are beginning and test scenario. We can change the scenario in any way, and dashboard issue admin cap, meaning this, this on the dashboard. This particular thing is on the dashboard, so we are just importing it. The Admin caps on the dashboard, and we are seeing the admin cap is from the sender.
+
+622
+01:22:05.430 --> 01:22:08.730
+Lion Prado: So it's from whoever is sending it. Which is the address
+
+623
+01:22:09.330 --> 01:22:15.280
+Lion Prado: which is this address. You are seeing it. This address is the sender of this
+
+624
+01:22:15.680 --> 01:22:20.059
+Lion Prado: these things, so they send this address becomes the owner of the Admin cap.
+
+625
+01:22:20.560 --> 01:22:30.909
+Lion Prado: So then we return the Admin cap to the scenario. And you see, if you check scenario, we are seeing the user. So we all what this code is is doing is like, it's just passing the
+
+626
+01:22:31.180 --> 01:22:36.900
+Lion Prado: Admin power to this address. Yes. So now we are now going to create a proposal.
+
+627
+01:22:37.140 --> 01:22:40.590
+Lion Prado: So we are just creating a proposal. So when you are creating a proposal.
+
+628
+01:22:41.220 --> 01:22:47.210
+Lion Prado: we are just taking it from whatever is here, and we are passing in these details.
+
+629
+01:22:48.070 --> 01:22:52.150
+Lion Prado: So once you. You do that. It's going to take this proposal.
+
+630
+01:22:52.530 --> 01:23:00.519
+Lion Prado: this proposal, and you see, if you see proposal, you see, we are seeing them, Hoover on it. You see, hope you are seeing
+
+631
+01:23:00.690 --> 01:23:03.399
+Lion Prado: public strat voting system. Can you see it.
+
+632
+01:23:05.820 --> 01:23:06.650
+DC ABLORH: Yeah.
+
+633
+01:23:13.870 --> 01:23:17.789
+Lion Prado: Oh, I think it doesn't show by unless I go inside the code. I didn't.
+
+634
+01:23:21.160 --> 01:23:28.189
+Lion Prado: So you see, a, it's asking of creating, creating proposal, creating.
+
+635
+01:23:34.880 --> 01:23:39.150
+Lion Prado: it's asking of. And this thing right? Admin cap.
+
+636
+01:23:41.620 --> 01:23:58.369
+Lion Prado: which is a 1st parameter. So with this one, when it's asking you, it doesn't need you to input it. So that's the reason why, you know, you know. See it when you're testing. It's just going to ask you of the the title, the description, aspirating whether it is private.
+
+637
+01:23:59.130 --> 01:24:01.839
+Lion Prado: So that's what he's going to ask you.
+
+638
+01:24:02.070 --> 01:24:16.090
+Lion Prado: So over here. That's what it is. Just passing a title description, expiration, and this kind of stuff. So it is expecting you to with proposal is expecting you to have that capability. So once you have that capability, then
+
+639
+01:24:16.240 --> 01:24:21.350
+Lion Prado: the test will pass. Then the scenario will end then, because we want to make sure
+
+640
+01:24:21.580 --> 01:24:45.199
+Lion Prado: that someone is not having that nft, and they want to create a proposal because they want to make sure they can do it. So I will create a user in this address of the user, Bob. And I'll create an a user. Who is the admin, and you can see it's the same thing. And now with the scenario, I'm sending the nft to admin, as you can see over here. But I am making the user to create proposal. So you see, the user is now
+
+641
+01:24:45.687 --> 01:24:51.410
+Lion Prado: let admin cap is is equal to from the admin cap. So this is the Admin cap
+
+642
+01:24:51.720 --> 01:24:52.870
+Lion Prado: as their key.
+
+643
+01:24:53.190 --> 01:24:56.170
+Lion Prado: But I'm making the user
+
+644
+01:24:56.730 --> 01:25:09.390
+Lion Prado: to create it. So because of that, this code is supposed to fill, because it is a user who is trying to do something. So that's the reason I've added, expected to fill. So if I remove this expected to fill over here.
+
+645
+01:25:10.560 --> 01:25:14.000
+Lion Prado: Oh, if I remove this expected to fill.
+
+646
+01:25:15.200 --> 01:25:20.190
+Lion Prado: and I saved it and let me run, run this this could.
+
+647
+01:25:27.840 --> 01:25:31.039
+Lion Prado: So all what I'm doing is, I'm just trying to explain a
+
+648
+01:25:31.210 --> 01:25:36.820
+Lion Prado: how expected you can make use of expected to fill and CD contracts.
+
+649
+01:25:45.380 --> 01:25:50.730
+Lion Prado: So right now, because and it is not the Admin who is trying to register a proposal.
+
+650
+01:25:50.960 --> 01:25:54.110
+Lion Prado: and that function should fill that test should fail.
+
+651
+01:25:55.050 --> 01:25:58.730
+Lion Prado: So you see, all the tests are sparse. Only test.
+
+652
+01:25:58.900 --> 01:26:06.069
+Lion Prado: create a proposal without an admin cap. So the user is not having that Nfc and you are trying to do it. So the test is going to fail.
+
+653
+01:26:07.360 --> 01:26:13.550
+Lion Prado: So I can use this to test my functions before I send it to the front end guy towards match.
+
+654
+01:26:13.700 --> 01:26:21.220
+Lion Prado: So because I know this function is, I know I'm just creating a faulty function just to make sure that my system is is.
+
+655
+01:26:21.470 --> 01:26:26.029
+Lion Prado: it's robust from any external attacks.
+
+656
+01:26:28.390 --> 01:26:33.690
+Lion Prado: So right now, if I and I now know it's an a function which is supposed to fail so.
+
+657
+01:26:34.060 --> 01:26:35.910
+Lion Prado: and if I run that test.
+
+658
+01:26:36.070 --> 01:26:44.820
+Lion Prado: all my tests should be passing now, now everything is passing. Yeah, this is not the only expected failure could I have. I have some
+
+659
+01:26:45.100 --> 01:26:47.330
+Lion Prado: a lot of fine and test.
+
+660
+01:26:47.560 --> 01:27:00.460
+Lion Prado: Sometimes I do. I. And I'm expecting it. I'll do the right one, and I'll do a wrong one. Just I want to make sure it is working when probably there's a wrong input. Yeah. So that's how test test works. So
+
+661
+01:27:00.590 --> 01:27:03.329
+Lion Prado: let's go back to our our quote.
+
+662
+01:27:03.610 --> 01:27:06.849
+Lion Prado: Hope you understand the use of expected failure. Right?
+
+663
+01:27:10.000 --> 01:27:11.580
+Lion Prado: Hope. You understand that?
+
+664
+01:27:14.800 --> 01:27:16.039
+Lion Prado: Am I audible?
+
+665
+01:27:18.340 --> 01:27:19.790
+Ampiah Kobina Takyi 1698325260: Yes, we can hear you.
+
+666
+01:27:20.400 --> 01:27:21.210
+Lion Prado: Oh, okay.
+
+667
+01:27:28.580 --> 01:27:29.280
+Lion Prado: good.
+
+668
+01:27:37.953 --> 01:27:44.240
+Lion Prado: I'm having problem with the screen sharing. It's telling me it's post.
+
+669
+01:27:44.460 --> 01:27:45.810
+Lion Prado: Can you see my screen.
+
+670
+01:27:49.420 --> 01:27:50.980
+DC ABLORH: It's loading at my end.
+
+671
+01:27:51.120 --> 01:27:52.860
+DC ABLORH: It's loading up mine right now.
+
+672
+01:27:53.220 --> 01:27:54.040
+Benefit girl: So she would.
+
+673
+01:27:55.300 --> 01:27:57.240
+Lion Prado: Let me stop sharing and share again.
+
+674
+01:28:11.990 --> 01:28:13.630
+Lion Prado: Hope you can see it now.
+
+675
+01:28:15.270 --> 01:28:16.809
+DC ABLORH: Yes, you can see it now.
+
+676
+01:28:18.140 --> 01:28:18.680
+Lion Prado: Yeah.
+
+677
+01:28:18.950 --> 01:28:20.830
+Lion Prado: So we are going to continue with
+
+678
+01:28:22.099 --> 01:28:26.089
+Lion Prado: our functions. The reason why I'm I'm
+
+679
+01:28:26.210 --> 01:28:39.959
+Lion Prado: trading on function is really really important. Apart from all other stuff that I'm going to do is function. So if I use even just today for functions, I'm okay. I'm really trading on it because
+
+680
+01:28:40.120 --> 01:28:41.160
+Lion Prado: the
+
+681
+01:28:41.260 --> 01:28:54.380
+Lion Prado: other part of the code is just going to be functions. And although even writing test is even functions, as we can see, even test is even functions. That's the reason why. And I'm just, I'm keeping on function. So we really need to understand how function works.
+
+682
+01:28:57.620 --> 01:29:00.340
+Lion Prado: So if you have any question, just just ask.
+
+683
+01:29:00.660 --> 01:29:02.499
+Lion Prado: we are not in in a rush.
+
+684
+01:29:05.660 --> 01:29:09.105
+Lion Prado: So, and the 1st one with this one I wanted.
+
+685
+01:29:10.020 --> 01:29:20.890
+Lion Prado: I think before we done that function dot call functions, then functions with early retain functions.
+
+686
+01:29:25.110 --> 01:29:31.250
+Lion Prado: It's Ellie written
+
+687
+01:29:37.670 --> 01:29:38.340
+Lion Prado: cool.
+
+688
+01:29:38.690 --> 01:29:42.929
+Lion Prado: So if you say function with early return, what do you think will come into your head.
+
+689
+01:30:02.560 --> 01:30:03.879
+Lion Prado: Yeah, real quick.
+
+690
+01:30:12.050 --> 01:30:17.300
+Lion Prado: If you say function with early early return, what gets passed through your mind?
+
+691
+01:30:40.460 --> 01:30:41.739
+Lion Prado: What do you think is the error?
+
+692
+01:30:47.170 --> 01:30:48.530
+Lion Prado: Look at the function.
+
+693
+01:30:58.210 --> 01:31:01.410
+LAWRENCE APPIAH-NUAMAH: Is there a republic? Oh, this villain or republic?
+
+694
+01:31:03.060 --> 01:31:05.770
+LAWRENCE APPIAH-NUAMAH: Yes, to us. So okay, if
+
+695
+01:31:14.520 --> 01:31:18.789
+Benefit girl: There is something we don't an invalid return.
+
+696
+01:31:19.240 --> 01:31:21.079
+Lion Prado: Yeah, so I want to build it.
+
+697
+01:31:22.050 --> 01:31:25.420
+Benefit girl: I don't want to fix it. I want us to do it together.
+
+698
+01:31:26.170 --> 01:31:26.805
+Benefit girl: Okay.
+
+699
+01:31:28.640 --> 01:31:30.860
+Lion Prado: So just keep looking through it.
+
+700
+01:31:36.700 --> 01:31:37.450
+Benefit girl: Hmm.
+
+701
+01:31:38.200 --> 01:31:38.480
+LAWRENCE APPIAH-NUAMAH: Hmm.
+
+702
+01:31:39.030 --> 01:31:45.030
+Benefit girl: If A less than B return A else, why is the return?
+
+703
+01:31:49.620 --> 01:31:50.570
+Benefit girl: Hmm!
+
+704
+01:31:57.050 --> 01:32:02.430
+Benefit girl: Why is he returning? Only don't worry.
+
+705
+01:32:06.375 --> 01:32:08.370
+Benefit girl: I should know.
+
+706
+01:32:13.410 --> 01:32:13.969
+Lion Prado: Okay.
+
+707
+01:32:22.181 --> 01:32:24.989
+metron nnavi: Well, I just realized, return to Osp.
+
+708
+01:32:25.470 --> 01:32:29.519
+Benefit girl: Maybe you should return here, but if else.
+
+709
+01:32:36.890 --> 01:32:38.860
+Lion Prado: She didn't just return me, she returned.
+
+710
+01:32:39.680 --> 01:32:43.949
+Benefit girl: Wait! Wait! I wait. Is it from the parenthesis?
+
+711
+01:32:45.370 --> 01:32:53.960
+Benefit girl: Oh, hey? Because I don't know I don't. I don't think I know whether that.
+
+712
+01:32:53.960 --> 01:32:54.820
+Lion Prado: Yeah, you are right?
+
+713
+01:32:55.140 --> 01:32:56.890
+Benefit girl: You fix them back?
+
+714
+01:32:59.200 --> 01:32:59.940
+Benefit girl: Oh.
+
+715
+01:33:01.180 --> 01:33:02.821
+Lion Prado: You are not trusting your.
+
+716
+01:33:03.556 --> 01:33:08.840
+Benefit girl: I learned from my head I was just trying well, just.
+
+717
+01:33:08.840 --> 01:33:10.610
+Lion Prado: Yeah, yeah. So that was it.
+
+718
+01:33:10.880 --> 01:33:12.490
+Lion Prado: So the parenthesis.
+
+719
+01:33:14.530 --> 01:33:21.629
+Lion Prado: But I I didn't want to scroll up. But if you check there it is, we don't add
+
+720
+01:33:23.450 --> 01:33:25.540
+Lion Prado: anything to it. Hope you can see.
+
+721
+01:33:26.540 --> 01:33:27.680
+Benefit girl: Yes, yes.
+
+722
+01:33:27.680 --> 01:33:28.020
+Lion Prado: Yeah.
+
+723
+01:33:28.020 --> 01:33:28.410
+Benefit girl: And.
+
+724
+01:33:28.410 --> 01:33:29.840
+Lion Prado: It was a parentheses.
+
+725
+01:33:32.900 --> 01:33:36.449
+Lion Prado: So why do you think this function now will return early.
+
+726
+01:33:42.760 --> 01:33:46.480
+Benefit girl: Why to return any? I guess it's because
+
+727
+01:33:46.920 --> 01:33:50.059
+Benefit girl: the answer is, Elito. I don't know.
+
+728
+01:33:50.060 --> 01:33:55.729
+Lion Prado: Yeah, anyone, anyone. Why, you think this function will return early.
+
+729
+01:33:58.430 --> 01:34:01.369
+DC ABLORH: Maybe because A is less than.
+
+730
+01:34:02.620 --> 01:34:07.429
+Lion Prado: Yes, yes, so me. It will not even bother to come and read this line of code. Do you get it?
+
+731
+01:34:09.410 --> 01:34:20.929
+Lion Prado: And also, the moment it reads this line, and you see that A is not less than B. It will not bother to even read the return value of A. It will just come straight forward over here and print it. So hope you understand why it returns early.
+
+732
+01:34:22.570 --> 01:34:23.264
+Benefit girl: Yes.
+
+733
+01:34:24.690 --> 01:34:27.979
+Lion Prado: Yeah. So we have a big question. Now, today.
+
+734
+01:34:28.210 --> 01:34:34.320
+Lion Prado: someone is asking, what is an nft? Anyone anyone I made mention of nft. So the person wants to know.
+
+735
+01:34:37.070 --> 01:34:38.840
+metron nnavi: Not from Gatewood, Turkish.
+
+736
+01:34:38.970 --> 01:34:39.870
+Benefit girl: Yeah.
+
+737
+01:34:39.870 --> 01:34:43.840
+Lion Prado: Okay, non-fangible tokens. I'm not sure you understand.
+
+738
+01:34:45.583 --> 01:34:48.076
+Benefit girl: Everyone just know jabbervision.
+
+739
+01:34:51.140 --> 01:34:57.139
+Lion Prado: Let me use this opportunity to explain. So if you say an nft, so let me give you an
+
+740
+01:34:57.250 --> 01:35:02.309
+Lion Prado: like, and they are unique digital identifier which are being stored on a blockchain.
+
+741
+01:35:02.510 --> 01:35:12.500
+Lion Prado: So sometimes this satisfies ownership, and probably the authenticity of a specific asset. So let me say you you have a car.
+
+742
+01:35:12.830 --> 01:35:30.890
+Lion Prado: Could you have a car? You can make your car an nft on a blockchain with some metadata which shows that this car belongs to you, and it will be in your wallet. So if I go to the blockchain, and I see that particular car of nft over there, I can see the owner of
+
+743
+01:35:31.730 --> 01:35:39.589
+Lion Prado: nft. So that's basically it's like we tokenizing real world assets on the blockchain. So are we good.
+
+744
+01:35:41.460 --> 01:35:42.889
+metron nnavi: Yes, yes, yes.
+
+745
+01:35:44.010 --> 01:35:45.699
+Lion Prado: All people understood nft.
+
+746
+01:35:46.540 --> 01:35:48.329
+Godfred Addai Amoako: So can we say that? Let's say
+
+747
+01:35:48.430 --> 01:35:52.789
+Godfred Addai Amoako: our school certificates, our national Id.
+
+748
+01:35:52.790 --> 01:35:53.389
+Lion Prado: Is, I don't know.
+
+749
+01:35:53.390 --> 01:35:56.919
+Godfred Addai Amoako: Can be like energies.
+
+750
+01:35:56.920 --> 01:35:57.990
+Godfred Addai Amoako: Yes, the blood flow.
+
+751
+01:35:57.990 --> 01:36:16.700
+Lion Prado: Yes, yes. So as you are learning this, see, project idea should come into your head. See? Like the school certificate, I think that was one of the 1st projects I did. And in in one of in my. So I thought about, Okay, why don't we make our certificate and a company, a startup you can create.
+
+752
+01:36:16.760 --> 01:36:33.629
+Lion Prado: Because, you see, there are a number of certificates that we have have problems. People can make fake ones. You get it. People can make fake ones out of it, and even if you are applying a job with your certificate, they have to go and verify from your school and all those kind of stuff to make sure it is legit
+
+753
+01:36:33.910 --> 01:36:57.170
+Lion Prado: so, and even you can't even lose your certificate. Let's say you are holding a paper, and let's say your house Burns, you've lost it. So how about we bringing it to the blockchain, making it an nft where the school gives you access to maintain your certificate. I'm giving you a project idea. You can build it. This is a project I built. It's in my Github repo, and I've stopped. I'm pitching it so you can go and build it.
+
+754
+01:36:57.290 --> 01:36:59.239
+Lion Prado: So this is how how I was doing this.
+
+755
+01:36:59.560 --> 01:37:27.010
+Lion Prado: and so I was using a protect. I made a dummy backend which has a protected URL from from the university or any school, and that's where they store. They have their student certificate. So once you graduate, and you have something to verify. So I was having a Zk verifier which verifies that you are a student of that school. So I was using University of Ghana. So I was having a Zk verifier which verifies that you're a student of University of Ghana without taking any details from you.
+
+756
+01:37:27.270 --> 01:37:40.089
+Lion Prado: So once it's verified University of Afghanistan to give you access to the system, and if you give you access to the system because you have ids and stuff, only, your certificate will be available to you, and you can now mint your certificate to your wallet.
+
+757
+01:37:40.090 --> 01:37:57.850
+Lion Prado: and when you mint it to your wallet and you're applying for a job, and you want there, probably whoever wants to verify your certificate. You don't send in your certificate, but there's some access time on it. I can issue it to you to view it on the website. I can issue it to you to view it for like 5 min. So after you view it for 5 min.
+
+758
+01:37:58.360 --> 01:38:05.950
+Lion Prado: You lose it because it is a certificate I cannot send. It's not. You can't send it. You cannot send it. It belongs to you.
+
+759
+01:38:06.140 --> 01:38:32.030
+Lion Prado: or probably somewhere in the future, you can sell it as an nft at a higher price. If we get to a certain stage where people can sell their certificate. That's when we can do it. But for now you cannot send it. But you can just give people access to view it and access to view it. I don't want them to view it forever, so I place a timer on it. Probably I can give access to view it for 10 min, or after some 10 min the token will expire, and cannot view my certificate again. So I've given you a project idea.
+
+760
+01:38:35.730 --> 01:38:37.240
+metron nnavi: Nice idea.
+
+761
+01:38:41.180 --> 01:38:45.098
+Nhyiraba : Yeah. Nice one. There wants to sell a certificate.
+
+762
+01:38:45.490 --> 01:38:56.259
+Lion Prado: Yeah, we can sell it for you. Probably someone has 1st class 1 million dollar 1st class in computer science. Someone will buy it.
+
+763
+01:38:59.270 --> 01:39:07.979
+Godfred Addai Amoako: Or you can also probably limit it to the point where it's just for how to call it identification and other things.
+
+764
+01:39:07.980 --> 01:39:08.699
+Godfred Addai Amoako: Yeah, yeah, yeah.
+
+765
+01:39:08.700 --> 01:39:19.420
+Godfred Addai Amoako: like, you can be able to leverage it for proof of work. Attendance, even like, join this cohort. The court can provide you with certification that oh.
+
+766
+01:39:19.420 --> 01:39:20.030
+Lion Prado: You did.
+
+767
+01:39:20.030 --> 01:39:33.310
+Godfred Addai Amoako: This, and then every single time you can have reference to it, and then people will know that. Oh, this is like a sweet personality. I think some chains also do it already, so I think it's a very good project for us to do.
+
+768
+01:39:34.230 --> 01:39:38.520
+Lion Prado: Exactly. So you talking about this? I don't know if Mr. Douglass is here.
+
+769
+01:39:42.440 --> 01:39:57.829
+Lion Prado: Okay, Mr. Douglas is here. So we are working on something like that. So if you can help us, just, we are trying to create something like that, so that anytime swighana and you are not just doing for Swighana it can be. It will be a project other where everybody can use and.
+
+770
+01:39:57.830 --> 01:39:58.640
+Nhyiraba : I'm glad.
+
+771
+01:39:58.640 --> 01:40:04.089
+Lion Prado: After any of any of our events and make our team lead.
+
+772
+01:40:04.350 --> 01:40:17.139
+Lion Prado: gives people a password to mint, a particular nft to show that you were present at that event. So the more you come for our event, the more nft you have. That shows that. Okay, this guy is a very og off.
+
+773
+01:40:17.160 --> 01:40:34.740
+Lion Prado: So imagine how, if we started this in our 1st event, and probably some 5 years later, you show your nft? Oh, I was available, Swig and our Thursday what to prove. Then you showed our nft. Oh, yeah, this was shows that I was there. So we are working on something like that. So if you can. If you want to help us, you can just hop on
+
+774
+01:40:35.200 --> 01:40:57.560
+Lion Prado: with a contract and stuff. What is needed is just a contract, and and that was the reason why I asked in the group, if I want a uiux person, but no one reach out to me. If you are good in Ui us, and you can propose a design so that we just work out on this. Then this can be a community project where we all can use. Yeah, to show proof proof of ownership of something of something.
+
+775
+01:40:57.560 --> 01:41:03.179
+Nhyiraba : I can cook some small ui. Let me see if it's nice. If it's not nice, feel free to reject.
+
+776
+01:41:05.390 --> 01:41:10.860
+Lion Prado: Yeah, no problem. Bro, so you just yeah, you can do it. It's not. It's not any big deal. Yeah.
+
+777
+01:41:17.450 --> 01:41:20.130
+Godfred Addai Amoako: I think it will show proof of participation, right.
+
+778
+01:41:20.130 --> 01:41:20.890
+Lion Prado: Exactly
+
+779
+01:41:29.330 --> 01:41:32.760
+Lion Prado: so. And the next thing I want us to do do is
+
+780
+01:41:33.370 --> 01:41:36.110
+Lion Prado: the which is the last function.
+
+781
+01:41:36.420 --> 01:41:39.300
+Lion Prado: It's a function with a retained values
+
+782
+01:41:39.640 --> 01:41:45.819
+Lion Prado: which. So I'm giving types of French. What I've done is is like in in Shs. They'll ask you
+
+783
+01:41:45.920 --> 01:41:52.719
+Lion Prado: type of functions. So probably we say that there are no type of functions. I've given you plenty types of functions.
+
+784
+01:41:54.460 --> 01:42:00.790
+Lion Prado: So we see we have a function, and with no parameter, a function with a parameter.
+
+785
+01:42:01.010 --> 01:42:14.099
+Lion Prado: and over here I've embedded 2 functions over here. This is supposed to be a function with a parameter in a return value, and I've embedded it with a function with a parameter and also making use of a private function.
+
+786
+01:42:15.020 --> 01:42:18.990
+Lion Prado: And it's a function with multiple and return value.
+
+787
+01:42:19.110 --> 01:42:30.309
+Lion Prado: And this a private function, which is a function which is private, a private function which is only accessible within our model. And this a function is now returned early, and this this a function
+
+788
+01:42:30.420 --> 01:42:37.590
+Lion Prado: that oh, no, that that's not a function. I I there, let me escape it.
+
+789
+01:42:40.040 --> 01:42:41.940
+Lion Prado: There's no definition I want.
+
+790
+01:42:43.820 --> 01:42:57.220
+Lion Prado: I want a function which make use of a name named values function that makes use of named values. See all the values that we are returning. We. I'm not assigning it to anything so function making
+
+791
+01:42:57.860 --> 01:42:59.240
+Lion Prado: making.
+
+792
+01:42:59.870 --> 01:43:08.150
+Lion Prado: So we can have plenty type of functions making use of making use of named
+
+793
+01:43:08.960 --> 01:43:16.040
+Lion Prado: Profono name, help, help me with the English retain
+
+794
+01:43:18.230 --> 01:43:22.499
+Lion Prado: values. Yes, something like this is what I want.
+
+795
+01:43:27.550 --> 01:43:34.940
+Lion Prado: So I'm going to use a division to do it. So public fun public.
+
+796
+01:43:38.047 --> 01:43:42.349
+Lion Prado: sometimes you see how the AI is trying to generate the quote to me.
+
+797
+01:43:42.740 --> 01:44:00.209
+Lion Prado: probably on my machine is doing well because I've written a whole lot of move code, and I have a server that I make it learn from every code I'm writing, but if you start writing it on your machine it will be generating Ras code for you instead of moves.
+
+798
+01:44:01.820 --> 01:44:07.610
+Lion Prado: because move and rust are almost alike. So to be to try generating rust rust for you.
+
+799
+01:44:14.100 --> 01:44:18.770
+Lion Prado: I want to name it. Dv, a.
+
+800
+01:44:19.820 --> 01:44:20.560
+Lion Prado: Yeah.
+
+801
+01:44:56.220 --> 01:45:00.400
+Lion Prado: Let's fix the error. What's error? What's the error? Was the error. I've seen the error. But I want us to fix it.
+
+802
+01:45:06.500 --> 01:45:09.649
+Lion Prado: Let's face the arrow. Let's face the arrow. Let's face the arrow.
+
+803
+01:45:09.950 --> 01:45:13.580
+Lion Prado: You see one good thing about the move build.
+
+804
+01:45:13.920 --> 01:45:20.359
+Lion Prado: It's like it really helps you to fix errors. The move builder has fixed error for us.
+
+805
+01:45:22.220 --> 01:45:26.800
+Lion Prado: Is it easy task expected this? So where? Where do you think it should be?
+
+806
+01:45:31.090 --> 01:45:32.999
+LAWRENCE APPIAH-NUAMAH: After the Calibrocket.
+
+807
+01:45:33.440 --> 01:45:40.820
+Lion Prado: Yeah, it's even telling us a line line 50 58 days this thing. So after the curly bracket over here.
+
+808
+01:45:41.240 --> 01:45:42.960
+Lion Prado: then arrow fixed.
+
+809
+01:45:43.690 --> 01:45:46.350
+Lion Prado: So that's the use of it. And
+
+810
+01:45:46.500 --> 01:45:48.559
+Lion Prado: I mean, get these things installed.
+
+811
+01:45:49.020 --> 01:45:58.899
+Lion Prado: Where are those destinations and swee? Move, analyzer this this particular thing.
+
+812
+01:46:00.060 --> 01:46:07.030
+Lion Prado: get it with this, you also need rust to install it. Yeah. Yeah. So they have a tutorial here
+
+813
+01:46:07.130 --> 01:46:25.420
+Lion Prado: about how to install it. So you just search for swee, move analyzer on your Vs code, and you watch you follow their tutorials on windows. You just do all you do this. Do that. Do that. If your Mac Mac and Linus is is their brothers. So this they are
+
+814
+01:46:25.750 --> 01:46:30.240
+Lion Prado: their way of doing it, and the 1st one is for windows.
+
+815
+01:46:30.850 --> 01:46:31.690
+Lion Prado: Yes.
+
+816
+01:46:32.120 --> 01:46:42.550
+Lion Prado: and also move syntax. If you don't have move syntax, and just to highlight your code and make your code beautiful like we are seeing over here. So that's you have to install
+
+817
+01:46:42.780 --> 01:47:02.649
+Lion Prado: the move syntax for that one and move, trace. Debugger provides the ability to visualize trace files which can generate for a given package when running move test. So this help us to debug our tests. So that's what move. And there's move this one, too. Always make sure you're installing. It is from move bit.
+
+818
+01:47:03.050 --> 01:47:06.090
+Lion Prado: Make sure you're installing it from the correct correct source.
+
+819
+01:47:09.040 --> 01:47:13.780
+Lion Prado: Always make sure you're installing, and there's move from missing lapse.
+
+820
+01:47:15.950 --> 01:47:18.829
+Lion Prado: So just install install them on your machine.
+
+821
+01:47:19.280 --> 01:47:22.599
+Lion Prado: Yes, so this one.
+
+822
+01:47:22.600 --> 01:47:23.470
+Lion Prado: Yes, you did.
+
+823
+01:47:25.050 --> 01:47:32.510
+DC ABLORH: Yeah, I'll send that. Will it be okay to get the list of audit.
+
+824
+01:47:36.360 --> 01:47:43.189
+Lion Prado: Oh, oh, okay, let me let me paste there. I'm pasting the in the chat.
+
+825
+01:47:46.730 --> 01:47:51.530
+Lion Prado: Oh, move, trace, debugger.
+
+826
+01:48:08.710 --> 01:48:15.940
+Lion Prado: Move to his debugger and stream move analyzer.
+
+827
+01:48:30.080 --> 01:48:33.030
+Lion Prado: so you can check the chart. I've pasted it over here.
+
+828
+01:48:33.640 --> 01:48:36.680
+Lion Prado: and I'm going to paste it in a Whatsapp, too.
+
+829
+01:48:52.200 --> 01:48:55.079
+Lion Prado: Alright, someone was, is someone using remix id?
+
+830
+01:48:57.280 --> 01:49:01.790
+Lion Prado: Yeah. So I'll I'll introduce the move online Id for you today.
+
+831
+01:49:04.830 --> 01:49:30.440
+Lion Prado: Yeah, I think I would like to end over here like. So we've gone into details, into functions, and we are done. So all we need to do is be applying other part of move. So I think, for now say, I've taken you more into details for functions, and we should be done with function. So if the function is making use of name, retain values. So we have a function called.
+
+832
+01:49:30.960 --> 01:49:34.280
+Lion Prado: and this and aborts code meaning an error code.
+
+833
+01:49:34.730 --> 01:49:39.750
+Lion Prado: And these are values A and B, and we are retaining those 2 values.
+
+834
+01:49:40.040 --> 01:49:46.582
+Lion Prado: So the abort code, which is this one is going to give us 0 when you that mean, if you try to.
+
+835
+01:49:47.210 --> 01:50:04.470
+Lion Prado: divide with 0, see? With division you cannot divide with 0. So that's the reason why it is necessary to be over there. But we don't even need it. We can use assets assets for that. But so you see, nowadays, if this issue so you move, you can just use a simple code like this
+
+836
+01:50:04.960 --> 01:50:06.050
+Lion Prado: assets.
+
+837
+01:50:07.610 --> 01:50:09.569
+Lion Prado: Then you pass the brackets.
+
+838
+01:50:10.870 --> 01:50:16.140
+Lion Prado: Then probably, is it? B, yeah. B is not equal to 0,
+
+839
+01:50:16.390 --> 01:50:22.729
+Lion Prado: which one is dividing, which one, let me check A is over. B, so make making sure B
+
+840
+01:50:22.890 --> 01:50:24.489
+Lion Prado: is not equal to 0.
+
+841
+01:50:25.730 --> 01:50:29.100
+Lion Prado: B is not equal to 0.
+
+842
+01:50:30.610 --> 01:50:39.190
+Lion Prado: Yeah, so this is it. So this logic app here, waste at the same, this one line of code. So which one will you be going for as a developer?
+
+843
+01:50:43.910 --> 01:50:45.500
+Lion Prado: Which one will you be going for?
+
+844
+01:50:49.880 --> 01:50:52.710
+Lion Prado: Yeah, they they'll they'll be recording. So yeah.
+
+845
+01:50:55.240 --> 01:50:58.669
+Lion Prado: which one will you be going for? Hope you all be going for this asset? Right?
+
+846
+01:51:02.030 --> 01:51:10.178
+Lion Prado: So the assets here is working the same as this. If so, if we try to. If you use assets over here meaning you don't even need this
+
+847
+01:51:11.930 --> 01:51:13.580
+Lion Prado: parameter to be passed.
+
+848
+01:51:13.760 --> 01:51:16.109
+Lion Prado: So meaning you can even delete this code
+
+849
+01:51:18.020 --> 01:51:26.879
+Lion Prado: less good. But it is working just like our initial code was working. So let me leave it like this
+
+850
+01:51:31.700 --> 01:51:36.070
+Lion Prado: and cut this over here.
+
+851
+01:51:37.030 --> 01:51:49.399
+Lion Prado: No, let me copy all this code and paste it over here and tick off this.
+
+852
+01:51:53.344 --> 01:52:00.160
+Lion Prado: Then I'll make over here making use.
+
+853
+01:52:01.110 --> 01:52:01.860
+Sophylon: Of.
+
+854
+01:52:02.190 --> 01:52:03.380
+Lion Prado: Assets.
+
+855
+01:52:04.950 --> 01:52:10.700
+Lion Prado: We'll be using assets, a lot assets.
+
+856
+01:52:15.820 --> 01:52:20.410
+Lion Prado: Okay, I've seen the error making use of assets.
+
+857
+01:52:20.650 --> 01:52:22.499
+Lion Prado: So we don't need this.
+
+858
+01:52:23.400 --> 01:52:29.460
+Lion Prado: So all we need is assets.
+
+859
+01:52:34.670 --> 01:52:37.320
+Lion Prado: And then, B,
+
+860
+01:52:40.940 --> 01:52:45.429
+Lion Prado: yeah, so this, what we need. So you can check this code.
+
+861
+01:52:47.820 --> 01:53:09.919
+Lion Prado: This code over here, just these few lines of code is working efficiently as these lines of code. So function making use of a name return values so meaning over here, the am meaning I'm retaining quotient a reminder. I'm not just returning it. So meaning I've made use of variable assignment over. I'm assigning the
+
+862
+01:53:09.920 --> 01:53:19.000
+Lion Prado: when a function runs finish, I'm assigning its return value to this variable meaning. Any time I call quotient quotient is going to print me. This return value.
+
+863
+01:53:19.000 --> 01:53:25.010
+Lion Prado: and anytime I called Remanda, remember, is going to pass me this reminder over here.
+
+864
+01:53:27.300 --> 01:53:31.159
+Lion Prado: Yeah. So that's that end us with with today.
+
+865
+01:53:34.440 --> 01:53:37.830
+Lion Prado: Let me see if I can make use of that last function over here.
+
+866
+01:53:41.490 --> 01:53:44.409
+Lion Prado: So anytime you are creating a test for a new function.
+
+867
+01:53:44.520 --> 01:53:48.209
+Lion Prado: You just have to make it a and sorry
+
+868
+01:53:49.070 --> 01:53:58.139
+Lion Prado: you have to bring the hashtag test annotation. And I want to test the Dev
+
+869
+01:54:01.780 --> 01:54:03.110
+Lion Prado: public fund.
+
+870
+01:54:20.480 --> 01:54:22.250
+Lion Prado: Now let's test.
+
+871
+01:54:31.990 --> 01:54:36.120
+Lion Prado: and it has worked successfully. That's it over there.
+
+872
+01:54:38.130 --> 01:54:44.700
+Lion Prado: So what we did was, we passed 2 values which is 20 and 3 to
+
+873
+01:54:46.084 --> 01:54:48.419
+Lion Prado: reminder. So let's try.
+
+874
+01:54:48.660 --> 01:54:59.230
+Lion Prado: Let me print a debug print cushions and print reminder so that
+
+875
+01:54:59.330 --> 01:55:09.229
+Lion Prado: we all see it, we all see it. So this asset is, we know, the return value over here we are, we? We are telling it that. Oh, when
+
+876
+01:55:09.460 --> 01:55:16.409
+Lion Prado: 20 device 3. The quotient is 3 goes into 26 times.
+
+877
+01:55:16.640 --> 01:55:27.629
+Lion Prado: So that that's it over here. And when 3 going to 26 times, the remainder is 2. That's 2, 6, 18, and remainder becomes 2. So over here, we know.
+
+878
+01:55:28.290 --> 01:55:40.229
+Lion Prado: and we pass it to it. So this asset is going to set is going to do the if else that if this and this aligns the code should run. But if this and this doesn't align, the code should give us an error.
+
+879
+01:55:40.390 --> 01:55:44.370
+Lion Prado: So that's what he's doing over there, so we can assume. We don't know.
+
+880
+01:55:45.170 --> 01:55:51.420
+Lion Prado: You can assume we don't know the if ors, and we want to print it out. We want to print the output.
+
+881
+01:55:52.010 --> 01:55:56.863
+Lion Prado: So like I said, even printing output is is also is also a test
+
+882
+01:56:00.430 --> 01:56:01.430
+Lion Prado: Ellis.
+
+883
+01:56:11.160 --> 01:56:16.450
+Lion Prado: So we are expecting it to print the value for us, which is 6, and to hope you all can see it
+
+884
+01:56:18.960 --> 01:56:19.700
+Lion Prado: bye.
+
+885
+01:56:24.160 --> 01:56:26.259
+Lion Prado: Hope you all can see. See that one.
+
+886
+01:56:27.960 --> 01:56:30.140
+Lion Prado: Can we have our guitar? Yes.
+
+887
+01:56:30.140 --> 01:56:30.960
+DC ABLORH: I don't see.
+
+888
+01:56:31.370 --> 01:56:33.750
+Blcvk_man: Yeah, lion. I have a question.
+
+889
+01:56:33.750 --> 01:56:34.610
+Lion Prado: Yay!
+
+890
+01:56:35.340 --> 01:56:41.099
+Blcvk_man: So what if in a case where we want to take input from the users like?
+
+891
+01:56:41.510 --> 01:56:49.269
+Blcvk_man: And let's say, for a simple calculator, the user has to input their own, their own numbers. We don't have to like.
+
+892
+01:56:49.580 --> 01:56:50.280
+Lion Prado: Take it.
+
+893
+01:56:50.280 --> 01:56:52.720
+Blcvk_man: Yeah. So we don't have.
+
+894
+01:56:52.850 --> 01:56:55.530
+Lion Prado: Those kind of functions, straightforward
+
+895
+01:56:55.780 --> 01:57:01.919
+Lion Prado: in, in move like it is, it is in other functions. So to do that.
+
+896
+01:57:02.440 --> 01:57:05.340
+Lion Prado: Let me show you to. You see.
+
+897
+01:57:06.150 --> 01:57:09.000
+Lion Prado: client, I made mention of that thing
+
+898
+01:57:10.030 --> 01:57:12.070
+Lion Prado: so probably tomorrow we'll do something like that.
+
+899
+01:57:12.450 --> 01:57:14.719
+Lion Prado: So where is it? Where is it? Where is it?
+
+900
+01:57:15.900 --> 01:57:17.330
+Lion Prado: So you see this call.
+
+901
+01:57:20.030 --> 01:57:30.640
+Lion Prado: So we are going to use the Cli to call it. And we are going to pass the parameter. That's from the user to it. So that's how it works. There's nothing. There's no easy
+
+902
+01:57:30.750 --> 01:57:45.720
+Lion Prado: method like in other languages. I think we can use the input and C plus plus is the scene and those kind of stuff we can't, I know, for most of the smart contract language. They don't allow that
+
+903
+01:57:46.220 --> 01:57:49.399
+Lion Prado: you have to use the Cli to do that
+
+904
+01:57:51.220 --> 01:58:07.390
+Lion Prado: is because of safety, because you are dealing with people money. That's the reason why they don't allow some certain kind of stuff in our normal programming languages in this. So that's the reason why they intentionally developed a smart contract languages. Hope I'm clear on this.
+
+905
+01:58:09.360 --> 01:58:10.640
+Blcvk_man: Yeah, yeah, yeah.
+
+906
+01:58:10.640 --> 01:58:15.030
+Lion Prado: Yeah, so I'll be ending over here.
+
+907
+01:58:15.130 --> 01:58:17.521
+Lion Prado: Then tomorrow I'll be talking about
+
+908
+01:58:18.260 --> 01:58:20.910
+Lion Prado: make. I want you to make research on this
+
+909
+01:58:22.040 --> 01:58:24.949
+Lion Prado: entry. You can write it down, please.
+
+910
+01:58:25.460 --> 01:58:27.040
+Lion Prado: Entry functions.
+
+911
+01:58:31.880 --> 01:58:38.080
+Lion Prado: I'll not explain it. Entry. I will not really go deep. I want, but I want you to make Inits
+
+912
+01:58:39.350 --> 01:58:40.490
+Lion Prado: 5. She's.
+
+913
+01:58:42.160 --> 01:58:44.150
+Sophylon: So just just these 2.
+
+914
+01:58:44.520 --> 01:58:49.129
+Lion Prado: Want us to read on it before we come tomorrow. Entry functions and init functions.
+
+915
+01:58:49.710 --> 01:58:56.859
+Godfred Addai Amoako: The entry functions. Is it going to be something like you? Add a notation to the functions, and then it becomes the main app or something.
+
+916
+01:58:59.060 --> 01:59:01.399
+Lion Prado: Well, let's leave it for tomorrow.
+
+917
+01:59:03.830 --> 01:59:05.849
+Lion Prado: So that's what I want you to read on.
+
+918
+01:59:06.000 --> 01:59:08.340
+Godfred Addai Amoako: How, when it's, when.
+
+919
+01:59:08.340 --> 01:59:08.680
+Lion Prado: When.
+
+920
+01:59:08.680 --> 01:59:10.699
+Godfred Addai Amoako: The reason I do it from Uncle.
+
+921
+01:59:12.130 --> 01:59:12.800
+Lion Prado: Pardon.
+
+922
+01:59:13.620 --> 01:59:15.009
+Lion Prado: That's like, yeah, the rest.
+
+923
+01:59:15.520 --> 01:59:19.610
+Godfred Addai Amoako: Yeah, it's borrowing some idea from encore. The way encore is built.
+
+924
+01:59:19.610 --> 01:59:20.690
+Lion Prado: Yeah, yeah, yeah, yeah.
+
+925
+01:59:20.690 --> 01:59:22.359
+Godfred Addai Amoako: Of course I can make it simpler.
+
+926
+01:59:23.190 --> 01:59:31.440
+Lion Prado: Yeah, but move, move. Actually, they actually look at rust, and they make it like a better version of rust, purposely for smart.
+
+927
+01:59:31.440 --> 01:59:31.910
+Godfred Addai Amoako: Contract.
+
+928
+01:59:31.910 --> 01:59:34.550
+Lion Prado: Do you get it? Yeah, that's what moved.
+
+929
+01:59:34.550 --> 01:59:38.069
+Godfred Addai Amoako: It will be quite simple to learn, because for you to learn.
+
+930
+01:59:39.804 --> 01:59:42.169
+Godfred Addai Amoako: think, like 6 months or so.
+
+931
+01:59:43.200 --> 01:59:44.230
+Lion Prado: Exactly
+
+932
+01:59:44.660 --> 02:00:05.899
+Lion Prado: move is very simple. See, in other languages we have some kind of functions like the payable solidity we have the payable solidity. We have some kind of specific kind of models you need to call when you are writing even the storage. If you've written solidity before you get what I'm trying to say, learning solidity move is easier than learning solidity.
+
+933
+02:00:07.560 --> 02:00:10.899
+Lion Prado: Yeah. So this is where we end. We end today.
+
+934
+02:00:12.330 --> 02:00:15.800
+Lion Prado: Thank you very much for your time, Miss Uji, you can take over.
+
+935
+02:00:18.450 --> 02:00:28.000
+Sui Ghana: Yeah, yeah, yeah, yeah, we are done for the night. Thank you. Guys so much for tuning in. And I wanted us just want us, and exactly 10 Pm.
+
+936
+02:00:28.190 --> 02:00:32.389
+Sui Ghana: No additional 1 min, no subtraction.
+
+937
+02:00:32.580 --> 02:00:35.899
+Sui Ghana: So we'll see you guys tomorrow. And
+
+938
+02:00:36.070 --> 02:00:39.669
+Sui Ghana: I just hope you guys are going through the
+
+939
+02:00:40.534 --> 02:00:54.730
+Sui Ghana: what is it called the move book always go through it so that then it would be easier for you, and if you miss any of the things. If you miss any of the sessions, kindly watch the video and
+
+940
+02:00:55.244 --> 02:01:04.209
+Sui Ghana: follow up so that we don't keep going back to what we've done before. Thank you guys so much and see you tomorrow. Good night.
+
+941
+02:01:05.050 --> 02:01:06.589
+Joseph Digba: Please, please. I have a question.
+
+942
+02:01:06.870 --> 02:01:08.200
+Lion Prado: Yeah. Good night.
+
+943
+02:01:08.440 --> 02:01:12.620
+Lion Prado: Yeah. Yup. Let please make it a bit.
+
+944
+02:01:15.310 --> 02:01:18.850
+Joseph Digba: I wanted to ask if I can install move on Vsp.
+
+945
+02:01:19.870 --> 02:01:21.599
+Lion Prado: If you can install.
+
+946
+02:01:26.582 --> 02:01:29.880
+Lion Prado: No, you need to get the Swiss Cli
+
+947
+02:01:31.530 --> 02:01:33.650
+Lion Prado: install. You have to install 3,
+
+948
+02:01:34.150 --> 02:01:39.859
+Lion Prado: and all you do on Vs code is install extensions, which is the extensions I pasted to the group.
+
+949
+02:01:41.960 --> 02:01:42.610
+Lion Prado: Yeah.
+
+950
+02:01:42.610 --> 02:01:47.430
+Joseph Digba: And please, can you share this app profiling data.
+
+951
+02:01:48.200 --> 02:01:52.430
+Lion Prado: Okay, I will share. I will share this this thing like I said.
+
+952
+02:01:52.600 --> 02:02:06.390
+Lion Prado: and from today onwards, any code we write, I'll give it a specific. I'll just make a specific repo. I'll be pushing all this code to it so that you can go and make. So this code. I'll share a link where you go and find this code over there.
+
+953
+02:02:08.930 --> 02:02:12.750
+Joseph Digba: And and if you have any good director.
+
+954
+02:02:14.630 --> 02:02:15.340
+Lion Prado: Any.
+
+955
+02:02:16.740 --> 02:02:17.650
+Joseph Digba: In the group.
+
+956
+02:02:18.370 --> 02:02:18.950
+Lion Prado: Anyone.
+
+957
+02:02:18.950 --> 02:02:19.560
+Joseph Digba: Thank you.
+
+958
+02:02:20.020 --> 02:02:21.149
+Joseph Digba: Yeah, we have it.
+
+959
+02:02:21.150 --> 02:02:23.429
+Lion Prado: We have a Whatsapp group. You're not in our Whatsapp group.
+
+960
+02:02:24.440 --> 02:02:27.130
+Joseph Digba: Yeah, I mean, there was something. Where do you pull the videos?
+
+961
+02:02:28.125 --> 02:02:44.329
+Lion Prado: Okay. So this was by tomorrow you will get. Peter will help us with a file where we just put all the videos over there. So we just one Google drive link you always when you click. You see all the videos over there. So, Peter, Peter, this one there, I beg you.
+
+962
+02:02:46.790 --> 02:02:48.159
+Blcvk_man: Thank you so much.
+
+963
+02:02:48.160 --> 02:02:55.009
+Blcvk_man: Yeah, so alright, thanks. So we just be updating the Google drive.
+
+964
+02:02:55.880 --> 02:02:57.280
+Lion Prado: Yeah. Hope, you good.
+
+965
+02:02:58.080 --> 02:02:59.370
+Joseph Digba: Yes, please. Thank you.
+
+966
+02:03:01.670 --> 02:03:02.520
+Lion Prado: We got.
+
+967
+02:03:03.970 --> 02:03:04.920
+Joseph Digba: Yes, she is.
+
+968
+02:03:04.920 --> 02:03:07.020
+Sui Ghana: Yeah, I think everyone is working.
+
+969
+02:03:07.250 --> 02:03:08.990
+Lion Prado: Yeah, so good night. Everyone.
+
+970
+02:03:09.810 --> 02:03:12.610
+Sui Ghana: Good night. Good night. See? You guys, tomorrow.
+

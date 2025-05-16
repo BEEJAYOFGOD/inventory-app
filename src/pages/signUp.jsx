@@ -133,7 +133,7 @@ const SignUp = () => {
 
                 toast.error(error.code);
             } finally {
-                // setFormData(defaultFormData);
+                setFormData(defaultFormData);
                 setLoading(false);
             }
         }

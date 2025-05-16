@@ -1,3 +1,4 @@
+import { Outlet, useLocation } from "react-router-dom";
 import filterIcon from "../assets/icons/inventory/filters_lines.svg";
 
 const Inventory = () => {
@@ -35,8 +36,12 @@ const Inventory = () => {
         stocks: "text-[#f36960]",
     };
 
+    const location = useLocation();
+
+    console.log(location.pathname);
+
     return (
-        <section className="flex flex-col gap-8 p-10 bg-gray bg-gray-300/30 h-full">
+        <section className="flex flex-col gap-8 p-10 bg-gray bg-gray-300/30 min-h-screen">
             <section className="bg-white rounded-md p-4">
                 <h2 className="mt-4 text-xl font-semibold text-gray-800">
                     Overall Inventory
@@ -70,9 +75,9 @@ const Inventory = () => {
                 </div>
             </section>
 
-            <section className="flex flex-col">
-                <section className="border bg-white rounded-md flex justify-between">
-                    <header className="p-4">
+            <section className="flex flex-col flex-1 ">
+                <section className="bg-white rounded-t-md flex justify-between items-center">
+                    <header className="p-4 font-base text-xl">
                         <h1>Products</h1>
                     </header>
                     <div className="p-4 flex gap-4">
@@ -87,16 +92,8 @@ const Inventory = () => {
                         </button>
                     </div>
                 </section>
-                <section className="">
-                    <header className="flex justify-between">
-                        <h2>Products</h2>
-                        <h2>Buying Price</h2>
-                        <h2>Quantity</h2>
-                        <h2>Threshold Value</h2>
-                        <h2>Expiry Date</h2>
-                        <h2>Availability</h2>
-                    </header>
-                </section>
+
+                <Outlet />
             </section>
         </section>
     );
